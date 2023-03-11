@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>79bb1d20d0aa2dff214de35228f82a89595cb254</guid>
+	<type>material</type>
+	<hash>3ee6f395</hash>
+	<runtimes>
+		<runtime id="79bb1d20d0aa2dff214de35228f82a89595cb254" name="sky material_675" link="0" type="5"/>
+	</runtimes>
+</asset>

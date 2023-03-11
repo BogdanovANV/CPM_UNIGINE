@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>6926efaa7e80db016355786c184d18db9da3787e</guid>
+	<type>material</type>
+	<hash>4303c6ff</hash>
+	<runtimes>
+		<runtime id="6926efaa7e80db016355786c184d18db9da3787e" name="am98_010_red_light" link="0" type="5"/>
+	</runtimes>
+</asset>

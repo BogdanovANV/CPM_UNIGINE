@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>9ba9e59440fc93e39d59e7e6b1db5e0ddb50e808</guid>
+	<type>material</type>
+	<hash>6231d806</hash>
+	<runtimes>
+		<runtime id="9ba9e59440fc93e39d59e7e6b1db5e0ddb50e808" name="am98_010_black_plastic_grill" link="0" type="5"/>
+	</runtimes>
+</asset>

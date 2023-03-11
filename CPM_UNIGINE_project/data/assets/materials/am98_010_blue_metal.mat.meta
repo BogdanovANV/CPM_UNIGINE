@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>384a2d3c1115276b61a995ce64d9a2d5f92a1630</guid>
+	<type>material</type>
+	<hash>ac2f193f</hash>
+	<runtimes>
+		<runtime id="384a2d3c1115276b61a995ce64d9a2d5f92a1630" name="am98_010_blue_metal" link="0" type="5"/>
+	</runtimes>
+</asset>

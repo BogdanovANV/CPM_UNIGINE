@@ -1,0 +1,293 @@
+17:23:52 
+17:23:52 ---- Engine ----
+17:23:52 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+17:23:52 Binary: Windows 64-bit Visual C++ 1900 Release
+17:23:52 Engine features: Direct3D11 OpenAL Microprofile DoubleCoords HalfTexCoords Development
+17:23:52 
+17:23:52 ---- Configs ----
+17:23:52 Loading boot config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/editor.boot"...
+17:23:52 Loading user config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
+17:23:52 Using config file "configs/default.config"
+17:23:52 Using boot config file "configs/editor.boot"
+17:23:52 Using user config file "configs/default.user"
+17:23:52 Using controls config file "configs/default.controls"
+17:23:52 
+17:23:52 ---- Engine Microprofile ----
+17:23:52 
+17:23:52 ---- GPU Detection ----
+17:23:52 GPU 0: Radeon RX 570 Series 8170 MB (Active)
+17:23:52 GPU 1: Microsoft Basic Render Driver 8167 MB
+17:23:52 
+17:23:52 ---- System ----
+17:23:52 OS:		Windows 10 (build 22621) 64-bit
+17:23:52 
+17:23:52 CPU:	AMD Ryzen 5 3600 6-Core Processor              
+17:23:52 		Frequency: 3593MHz
+17:23:52 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
+17:23:52 		Cores:6 Threads:12
+17:23:52 
+17:23:52 		System memory: 16335 MB
+17:23:52 		Sync threads:  11
+17:23:52 		Async threads: 6
+17:23:52 
+17:23:52 GPU:	Radeon RX 570 Series
+17:23:52 		Video memory:  8170 MB
+17:23:52 
+17:23:52 
+17:23:52 ---- Application ----
+17:23:52 
+17:23:52 ---- System Proxy ----
+17:23:52 
+17:23:52 ---- Render ----
+17:23:52 Loading "dxgi.dll"...
+17:23:52 Direct3D 11 initialization
+17:23:52 Renderer: AMD 8170MB
+17:23:52 Renderer API: Direct3D 11.0
+17:23:52 Maximum texture size:    16384
+17:23:52 Maximum texture units:   16
+17:23:52 
+17:23:52 ---- Load cache textures ----
+17:23:52 Cache textures loaded 789 (98ms)
+17:23:52 
+17:23:52 Render initialization: 620ms
+17:23:52 
+17:23:52 
+17:23:52 ---- Filesystem ----
+17:23:52 App path:  C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+17:23:52 Data path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/
+17:23:52 Save path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+17:23:52 
+17:23:52 Runtimes loaded: 315 23ms
+17:23:52 Filesystem initialization: 216ms
+17:23:52 
+17:23:52 
+17:23:52 ---- Sound ----
+17:23:52 Loading "openal32.dll"...
+17:23:53 Renderer: OpenAL Soft on Realtek HD Audio 2nd output (Realtek(R) Audio)
+17:23:53 OpenAL vendor:   OpenAL Community
+17:23:53 OpenAL renderer: OpenAL Soft
+17:23:53 OpenAL version:  1.1 ALSOFT 1.19.1
+17:23:53 Found AL_EXT_LINEAR_DISTANCE
+17:23:53 Found AL_EXT_OFFSET
+17:23:53 Found ALC_EXT_EFX
+17:23:53 Found ALC_SOFT_HRTF
+17:23:53 Found EFX Filter
+17:23:53 Found EFX Reverb
+17:23:53 Found EAX Reverb
+17:23:53 Found QUAD16 format
+17:23:53 Found 51CHN16 format
+17:23:53 Found 61CHN16 format
+17:23:53 Found 71CHN16 format
+17:23:53 Device enumeration supported
+17:23:53 Maximum sources:         256
+17:23:53 Maximum effect slots:    16
+17:23:53 Maximum auxiliary sends: 2
+17:23:53 Output sampling frequency: 48000hz
+17:23:53 HRTF not enabled!
+17:23:53 
+17:23:53 Sound: openal
+17:23:53 Sound initialization: 233ms
+17:23:53 
+17:23:53 ---- Physics ----
+17:23:53 
+17:23:53 ---- PathFind ----
+17:23:53 
+17:23:53 Loading controls "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
+17:23:53 Loading config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
+17:23:53 
+17:23:53 ---- Materials ----
+17:23:54 Engine base materials loaded: 174 / 174 (91ms)
+17:23:54 Engine materials loaded:      65 / 65 (10ms)
+17:23:54 User base materials loaded:   5 / 5 (30ms)
+17:23:54 User materials loaded:        1222 / 1222 (564ms)
+17:23:54 Total materials: 1466
+17:23:54 
+17:23:55 
+17:23:55 ---- Properties ----
+17:23:55 Properties loaded:            12 / 12 (4ms)
+17:23:55 
+17:23:57 Engine initialization: 5319ms
+17:23:57 
+17:23:57 
+17:23:57 
+17:23:57 ---- Plugins ----
+17:23:57 Loading "FbxImporter_double_x64.dll"...
+17:23:57 Loading "GLTFImporter_double_x64.dll"...
+17:23:57 Loading "FbxExporter_double_x64.dll"...
+17:23:58 Plugins initialization: 763ms
+17:23:58 
+17:23:58 Script loading "editor2/editor.usc" 39ms
+17:23:58 ---- UnigineEditor ----
+17:23:58 Version: 2.16.1.0 ver-2.16.1.0-6698bfb Dec 15 2022
+17:23:58 Binary: Windows MSVC 19.0.24215.1 
+17:23:58 
+17:23:58 
+17:23:58 ---- UnigineEditor Material Editor ----
+17:23:58 UnigineEditor Material Editor initialization: 9ms
+17:23:58 
+17:23:58 
+17:23:58 ---- UnigineEditor Asset Manager ----
+17:23:58 Run migration 2.8.0.0
+17:23:58 Run migration 2.9.0.0
+17:23:58 Run migration 2.10.0.0
+17:23:58 Run migration 2.11.0.0
+17:23:58 Run migration 2.12.0.0
+17:23:58 Run migration 2.12.0.1
+17:23:59 Run migration 2.12.0.2
+17:23:59 Run migration 2.13.0.0
+17:23:59 Run migration 2.14.0.0
+17:23:59 Run migration 2.14.1.0
+17:23:59 Run migration 2.15.0.0
+17:23:59 Run migration 2.15.0.1
+17:23:59 Run migration 2.15.1.0
+17:23:59 Run migration 2.16.0.0
+17:23:59 Run migration 2.16.0.1
+17:23:59 Run migration 2.16.0.2
+17:23:59 Run migration 2.16.1.0
+17:23:59 Migration 292.483000 ms
+17:23:59 ERROR:	"ImportPropertyStage: Property import error. (filepath: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/visual.prop)"
+17:23:59 UnigineEditor Asset Manager initialization: 956ms
+17:23:59 
+17:23:59 
+17:23:59 ---- UnigineEditor Auxiliary Systems ----
+17:23:59 ERROR:	Reflection::reflect(): can't reflect "Importer" name
+17:23:59 ERROR:	Reflection::reflect(): can't reflect "import" name
+17:24:01 [C# Component System] Available .NET SDKs: 6.0.401, 7.0.200
+17:24:01 [C# Component System] Required .NET SDK 6.0 found.
+17:24:01 [C# Component System] Initialized successfully.
+17:24:01 Run ' dotnet ' process with args:
+17:24:01  (build, -c, Debug, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+17:24:01 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+17:24:01 ╨Ю╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨╡╨║╤В╨╛╨▓ ╨┤╨╗╤П ╨▓╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤П...
+17:24:02 ╨Т╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜ C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj (╨╖╨░ 80 ms).
+17:24:11 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:11 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:11 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(22,35): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:11 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(24,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:11 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(29,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+17:24:13 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(22,35): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(24,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(29,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+17:24:13 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+17:24:13 ╨Ю╤И╨╕╨▒╨╛╨║: 5
+17:24:13 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:11.48
+17:24:13 UnigineEditor Auxiliary Systems initialization: 13812ms
+17:24:13 
+17:24:13 
+17:24:13 ---- UnigineEditor GUI Components ----
+17:24:14 [Build Tool] Project file is found ( "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project.project" ).
+17:24:14 [Build Tool] The SDK path ( "D:/UNIGINE_Community_Windows_2.16.1/sdks/community_windows_2.16.1/bin/" ) doesn't exist.
+17:24:14 [Build Tool] The SDK path ( "D:/UNIGINE_Community_Windows_2.16.1/sdks/community_windows_2.16.1/bin/" ) doesn't exist.
+17:24:14 UnigineEditor GUI Components initialization: 1303ms
+17:24:14 
+17:24:14 
+17:24:14 ---- UnigineEditor Plugins ----
+17:24:14 Editor.PluginSystem: Plugin search paths:  QVector("C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/editor")
+17:24:14 UnigineEditor Plugins initialization: 0ms
+17:24:14 
+17:24:14 ---- Interpreter ----
+17:24:14 Version: 2.90
+17:24:14 
+17:24:14 Unigine~# config_autosave 1 && world_load "CPM_UNIGINE_project"
+17:24:14 Script loading "core/unigine.usc" 3ms
+17:24:15 World loading "CPM_UNIGINE_project.world" 95ms
+17:24:15 
+17:24:15 ---- Load cache textures ----
+17:24:15 Cache textures loaded 443 (69ms)
+17:24:15 
+17:24:17 UnigineEditor initialization: 26353ms
+17:24:17 
+17:24:17 Run migration 2.8.0.0
+17:24:17 Run migration 2.9.0.0
+17:24:17 Run migration 2.10.0.0
+17:24:17 Run migration 2.11.0.0
+17:24:17 Run migration 2.12.0.0
+17:24:17 Run migration 2.12.0.1
+17:24:17 Run migration 2.12.0.2
+17:24:17 Run migration 2.13.0.0
+17:24:18 Run migration 2.14.0.0
+17:24:18 Run migration 2.14.1.0
+17:24:18 Run migration 2.15.0.0
+17:24:18 Run migration 2.15.0.1
+17:24:18 Run migration 2.15.1.0
+17:24:18 Run migration 2.16.0.0
+17:24:18 Run migration 2.16.0.1
+17:24:18 Run migration 2.16.0.2
+17:24:18 Run migration 2.16.1.0
+17:24:18 Migration 302.160000 ms
+18:16:10 WARNING:	Asset name and C# Component name do not match. C# Component will not be renamed.Run ' dotnet ' process with args:
+18:16:11  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:16:11 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:16:14 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+18:16:14 CSPropertyGenerator started
+18:16:22 CSPropertyGenerator completed successfully in 7,90 seconds
+18:16:22 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+18:16:22 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:16:22 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+18:16:22 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:11.39
+18:16:57 Run ' dotnet ' process with args:
+18:16:57  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:16:59 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(22,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "ApplicationContext". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(35,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "User". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(20,2): error CS0579: ╨Я╨╛╨▓╤В╨╛╤А╤П╤О╤Й╨╕╨╣╤Б╤П ╨░╤В╤А╨╕╨▒╤Г╤В "Component" [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(63,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(71,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(25,12): error CS0111: ╨в╨╕╨┐ "ApplicationContext" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "ApplicationContext" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(29,29): error CS0111: ╨в╨╕╨┐ "ApplicationContext" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "OnConfiguring" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(22,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "ApplicationContext". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(35,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "User". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(20,2): error CS0579: ╨Я╨╛╨▓╤В╨╛╤А╤П╤О╤Й╨╕╨╣╤Б╤П ╨░╤В╤А╨╕╨▒╤Г╤В "Component" [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(63,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(71,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(25,12): error CS0111: ╨в╨╕╨┐ "ApplicationContext" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "ApplicationContext" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(29,29): error CS0111: ╨в╨╕╨┐ "ApplicationContext" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "OnConfiguring" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:16:59 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:16:59 ╨Ю╤И╨╕╨▒╨╛╨║: 8
+18:16:59 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.64
+18:18:43 Run ' dotnet ' process with args:
+18:18:43  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:18:44 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(63,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(71,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(63,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(71,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:18:44 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:18:44 ╨Ю╤И╨╕╨▒╨╛╨║: 3
+18:18:44 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.54
+18:34:51 Run ' dotnet ' process with args:
+18:34:51  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:34:52 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(134,18): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(177,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(45,14): error CS0101: ╨Я╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╛ ╨╕╨╝╨╡╨╜ "<global namespace>" ╤Г╨╢╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┤╨╗╤П "Andrew_Bogdanov". [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(134,18): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Init" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Andrew_Bogdanov.cs(177,22): error CS0111: ╨в╨╕╨┐ "Andrew_Bogdanov" ╤Г╨╢╨╡ ╨╛╨┐╤А╨╡╨┤╨╡╨╗╤П╨╡╤В ╤З╨╗╨╡╨╜ "Update" ╤Б ╤В╨░╨║╨╕╨╝╨╕ ╨╢╨╡ ╤В╨╕╨┐╨░╨╝╨╕ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨╛╨▓. [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:34:54 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:34:54 ╨Ю╤И╨╕╨▒╨╛╨║: 3
+18:34:54 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.84
+18:35:37 Close "openal32.dll"
+18:35:37 ERROR:	D3D11Ext::shutdown(): 29 unreleased references
+18:35:37 Total RAM:           64.8 MB
+18:35:37 - system RAM used:   45.5 MB
+18:35:37 - pool RAM reserved: 19.3 MB
+18:35:37 - pool RAM used:     4.4 MB
+18:35:37 Total allocs:        483071
+18:35:37 - system allocs:     303210
+18:35:37 - 16b pool allocs:   133320
+18:35:37 - 32b pool allocs:   16964
+18:35:37 - 64b pool allocs:   29577
+
+
+Shutdown

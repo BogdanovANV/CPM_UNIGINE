@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="NodeDummy" id="1730376501" name="TruckC_2">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1499108355" name="AM98_010_TIR_logos">
+			<mesh_name>guid://5d0090ea560d8b4199f3ebac4184731b93a88dbe</mesh_name>
+			<surface name="AM98_010_chrome9" material="4286444ec8157f55658f48b094dbc44f87866562"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.87186260643e-06 6.71250006791 1.55356141313 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1360850492" name="AM98_010_TIR_grill">
+			<mesh_name>guid://bc05da05681603a0a59ee27f12260dd2ab615309</mesh_name>
+			<surface name="AM98_010_black_plastic_grill" material="9ba9e59440fc93e39d59e7e6b1db5e0ddb50e808"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -3.04610186604e-06 7.32662242222 2.46537565631 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="628035313" name="AM98_010_TIR_taillights_trailer">
+			<mesh_name>guid://d356c0d45d5f36233341a5261f477a4d3f4fd748</mesh_name>
+			<surface name="AM98_010_Material #25" material="81eb8e128fc2564964cf6b1474955b6397190966"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.563440107e-06 3.64024721512 0.520223534727 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1481866353" name="AM98_010_TIR_white_light_trailer">
+			<mesh_name>guid://494b9207542327ba653613d1db7c3afca3da5a2b</mesh_name>
+			<surface name="AM98_010_white_light" material="545c722e811d13b54d701190892f37af741b8142"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.563440107e-06 3.64024721512 0.520223534727 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="590506054" name="AM98_010_TIR_red_light_trailer">
+			<mesh_name>guid://5ca5a98e81452395d2ac1ff0a256328fc2eb7ea2</mesh_name>
+			<surface name="AM98_010_red_light" material="6926efaa7e80db016355786c184d18db9da3787e"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.34681325818 -8.08328133077 0.84580266046 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1247123429" name="AM98_010_TIR_black_metal_trailer">
+			<mesh_name>guid://54aaed99d7b8fa245201ff331e323af68a7ff5dd</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1922927459" name="AM98_010_TIR_silver_dirt_trailer">
+			<mesh_name>guid://43797d98557ce4179ce6b28a8ec3006137f59e4c</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1887945712" name="AM98_010_TIR_rim_cap_10">
+			<mesh_name>guid://6666453bf1f8f95e139d11257cda9040bf41c69f</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="765452419" name="AM98_010_TIR_rim_cap_09">
+			<mesh_name>guid://8d706372e8e56c29092ec774d19b4c43343f84c6</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="768222144" name="AM98_010_TIR_rim_cap_08">
+			<mesh_name>guid://29e5956d6e45f7e8ec6afa274b58315a055d50f1</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="393195780" name="AM98_010_TIR_rim_cap_07">
+			<mesh_name>guid://97f5159cb6b9344b69ff7d2ea3c6a2b596065490</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="918291311" name="AM98_010_TIR_rim_cap_06">
+			<mesh_name>guid://a2829eaf0761bc42efd9ceb962ed28c4bbdc1d53</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1123456262" name="AM98_010_TIR_rim_cap_05">
+			<mesh_name>guid://57668296455158fddbba46387856d437aac4a42a</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1874016073" name="AM98_010_TIR_rim_10">
+			<mesh_name>guid://49ee05815d4fa0ec6aa4275be65634fe74bad845</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="918226407" name="AM98_010_TIR_rim_09">
+			<mesh_name>guid://bad46ce0fe79babfe5ac89120791154981691e14</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="466009388" name="AM98_010_TIR_rim_08">
+			<mesh_name>guid://a0b57263dce434667edc408dbd1b6888f7c17247</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1310369337" name="AM98_010_TIR_rim_07">
+			<mesh_name>guid://0db90afabb9e1e11b31a403c10381e6b63da20ce</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="222625910" name="AM98_010_TIR_rim_06">
+			<mesh_name>guid://6bb2b1d54529d930a1c81acfcc7dc9e274543fd9</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1923063659" name="AM98_010_TIR_rim_05">
+			<mesh_name>guid://f257a764d0584b735d359a3662df4c1da8ee5ed8</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="964898486" name="AM98_010_TIR_rim_cap_04">
+			<mesh_name>guid://0d6bd4579e0265ca27d69aa1dda9f38cfdc6197b</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2084388062" name="AM98_010_TIR_rim_cap_03">
+			<mesh_name>guid://8aa8409ea0272f659c2b9980874ebedf1f427eb2</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1665365644" name="AM98_010_TIR_rim_cap_02">
+			<mesh_name>guid://b0ac4e6984adc4b46b35a8838417b406f7f37bad</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="999395084" name="AM98_010_TIR_rim_04">
+			<mesh_name>guid://eaf829281056fa672cadb49a5a407b318a93badc</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="970602831" name="AM98_010_TIR_rim_03">
+			<mesh_name>guid://61df188b7e1d946eebd150f5843eadd0e62ea6ef</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="935422481" name="AM98_010_TIR_rim_02">
+			<mesh_name>guid://d0a7a782fd6240f998a0760471fe8993e08781d6</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2099470162" name="AM98_010_TIR_rim_01">
+			<mesh_name>guid://4ef1cf3dd43dc7781bc3e4770207f76aacc4bfc1</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2117895842" name="AM98_010_TIR_rim_cap_fr">
+			<mesh_name>guid://20ac962c53541b9bacd71c3e7aaa16856f081620</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1757110840" name="AM98_010_TIR_rim_fr">
+			<mesh_name>guid://41c8d2ff329a4452f17f17896fa4bb54d5a3eea3</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1315242544" name="AM98_010_TIR_rim_fl">
+			<mesh_name>guid://b4c203a612f346cd0b0439c81f339287ad9e2e3a</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="757098394" name="AM98_010_TIR_chrome_squares">
+			<mesh_name>guid://978c68511009857ce13622aba0b1d80e5aea8015</mesh_name>
+			<surface name="AM98_010_chrome_squares" material="fc200410313d882f8d6897c2e927f439d8561044"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96591818292e-06 6.71250006791 1.55356141313 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="239336020" name="AM98_010_TIR_orange_light">
+			<mesh_name>guid://cb6cd27079be430fc64755220a4bd2197c6f94a4</mesh_name>
+			<surface name="AM98_010_orange_light" material="b1bdd6c8e02e8b87ca92d33aa6b6c95130d6727c"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -3.04610186604e-06 7.32662242222 2.46537565631 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2104752521" name="AM98_010_TIR_tire_11">
+			<mesh_name>guid://8756d7b3c64439761950e25ddad08018ee670497</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -0.700012435102 -6.99088138001 0.659919128823 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="786375704" name="AM98_010_TIR_register_plate_back">
+			<mesh_name>guid://d63d590a410074e121ff88cc22d62dbbcecac7de</mesh_name>
+			<surface name="AM98_010_register_plate" material="b1f3af3679e45d1d81f63bd8c9e00d570f9f4aca"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -9.72948205015e-07 -8.48472164712 0.744958866973 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="203994987" name="AM98_010_TIR_rim_11">
+			<mesh_name>guid://0d0b8da55591e2c0d9eff71f0c1bd9f23b5170a9</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -0.700012435102 -6.99088138001 0.659919128823 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2095700891" name="AM98_010_TIR_white_trailer">
+			<mesh_name>guid://b2f601f4888844c32dcb2346f1a3a1ed84679a68</mesh_name>
+			<surface name="AM98_010_white" material="db2f1680534a17df517c03b225960f69707291b4"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.5843801802e-06 3.80234075357 1.26573111126 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="867653538" name="AM98_010_TIR_tire_10">
+			<mesh_name>guid://515f3aa709f277da0dc9e571c923a01c47c53ccb</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2016629399" name="AM98_010_TIR_tire_09">
+			<mesh_name>guid://677eebae13c63f3566dc47102a7eef2f53c4d2c2</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1517222921" name="AM98_010_TIR_tire_08">
+			<mesh_name>guid://7e58f339d86d0344fae935d32753c11675c4857d</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="694625895" name="AM98_010_TIR_tire_07">
+			<mesh_name>guid://8dce88b8145d34b78e0a8aaa30d1ba01714acb6c</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="804921370" name="AM98_010_TIR_tire_06">
+			<mesh_name>guid://a7d44fdb266b437e841394c545f0ff60bfcc2b3f</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1998284623" name="AM98_010_TIR_tire_05">
+			<mesh_name>guid://8c2f3f92636b59c9d3499894306aaae3e21b12e6</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1253549942" name="AM98_010_TIR_tire_04">
+			<mesh_name>guid://59cc8d0d124a4b0817e1f2c72f12917a3b40f291</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="250769826" name="AM98_010_TIR_tire_03">
+			<mesh_name>guid://cf8a0abcd31466eb226ccf4e952c8e5576b50bb0</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="815793438" name="AM98_010_TIR_tire_02">
+			<mesh_name>guid://8a78ab4f13882062a0d1a459fb40c1e4bb3da3f3</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1985014322" name="AM98_010_TIR_tire_01">
+			<mesh_name>guid://509e18b6bc14b89d125fe15860ae74d710d78c4a</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1518953555" name="AM98_010_TIR_tire_fr">
+			<mesh_name>guid://ac808f2132365e0ca1d681fb9da08f1e308a2be5</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1596719690" name="AM98_010_TIR_tire_fl">
+			<mesh_name>guid://0a4d6c0027656f5f873c7532a314d2e969477f34</mesh_name>
+			<surface name="AM98_010_tire" material="55aa513e6181c78561821320e1c8abff740e4952"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1401870650" name="AM98_010_TIR_blinkers">
+			<mesh_name>guid://7dd32103f899d286b536082dc3d44ba827c3bae7</mesh_name>
+			<surface name="AM98_010_glass_white_texture" material="d317d99ab5625c31a3f227dcf018a18b049f896e"/>
+			<surface name="AM98_010_glass_orange_texture_2" material="32cc830418693293544816d67817603d0bec2478"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96508760976e-06 6.70578253811 1.5419879271 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="464019194" name="AM98_010_TIR_scania_logo">
+			<mesh_name>guid://7e667b1a82398fb1d0e4c55c44aba10bd56382ee</mesh_name>
+			<surface name="AM98_010_white" material="db2f1680534a17df517c03b225960f69707291b4"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -0.000734989646324 8.25234505036 1.82384241272 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2147336588" name="AM98_010_TIR_black_plastic_trailer">
+			<mesh_name>guid://81e56d75ef1f2050efb3776f93f93e021cfde579</mesh_name>
+			<surface name="AM98_010_black_plastic" material="be6e978ac4e7a16148f7cb4c86708e3bcc94ae5e"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.563440107e-06 3.64024721512 0.520223534727 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1039492646" name="AM98_010_TIR_register_plate_front">
+			<mesh_name>guid://4792d084badc2213c30b4056e8097bbde1ac89f8</mesh_name>
+			<surface name="AM98_010_register_plate" material="b1f3af3679e45d1d81f63bd8c9e00d570f9f4aca"/>
+			<transform>1 2.62268333151e-07 -8.74227876465e-08 0.0 8.74227876465e-08 2.29894604525e-14 1 0.0 2.62268333151e-07 -1 6.12316676499e-17 0.0 0.000575668263482 8.25943239502 0.501610814506 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="573920937" name="AM98_010_TIR_blue_metal">
+			<mesh_name>guid://ea62c4f7ba0c5deac854f4411c6a40ac5464c41b</mesh_name>
+			<surface name="AM98_010_blue_metal" material="384a2d3c1115276b61a995ce64d9a2d5f92a1630"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.98141195604e-06 -4.29570249215 0.514680973904 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="807561289" name="AM98_010_TIR_rim_cap_01">
+			<mesh_name>guid://d252aabe8737530540cf28a008c3c37fc5ab7ad2</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.72869390352e-06 3.63984346726 0.513264916581 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="311080897" name="AM98_010_TIR_taillights">
+			<mesh_name>guid://9795dc092197b5d42549a723cc2f622611a8134d</mesh_name>
+			<surface name="AM98_010_Material #25" material="81eb8e128fc2564964cf6b1474955b6397190966"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -0.947021084681 1.53694299991 0.652098016314 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1686512384" name="AM98_010_TIR_black_metal">
+			<mesh_name>guid://fc2d9c487a0c9307cd5634ba28fbbcd10edbcffc</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.53324638513e-06 3.4109100707 0.835402988111 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="872819827" name="AM98_010_TIR_silver_dirt">
+			<mesh_name>guid://e212eb2b384b068ea0b8dc95984284f07437538f</mesh_name>
+			<surface name="AM98_010_silver_dirt" material="a55ba33815968d371bb7092a777b268121a04dec"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96591818292e-06 6.71250006791 1.55356141313 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="762045537" name="AM98_010_TIR_white_light">
+			<mesh_name>guid://57802ba20225b699340b2f24f04cb033338337f6</mesh_name>
+			<surface name="AM98_010_white_light" material="545c722e811d13b54d701190892f37af741b8142"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96612350795e-06 6.71484871248 1.82264832709 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1429978941" name="AM98_010_TIR_rim_cap_fl">
+			<mesh_name>guid://996aceddc8dc82980c8225175910ff8a7c96e961</mesh_name>
+			<surface name="AM98_010_black_metal" material="4f76947403eeb5433f51d9c654b1e66debec14e8"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.9541984522e-06 6.78161135054 0.512814950148 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="192726140" name="AM98_010_TIR_black_plastic">
+			<mesh_name>guid://7b8e734c8707163b1669965e20e30a255b9e3540</mesh_name>
+			<surface name="AM98_010_black_plastic" material="be6e978ac4e7a16148f7cb4c86708e3bcc94ae5e"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -3.04610186604e-06 7.32662242222 2.46537565631 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="936585630" name="AM98_010_TIR_chrome_stripes">
+			<mesh_name>guid://1fef279f03e4507242367529bce23c74df563d43</mesh_name>
+			<surface name="AM98_010_chrome_stripes" material="54bf5cf0dc9e4b8fe38ac3a22f3f6e99b5a98724"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96591818292e-06 6.71250006791 1.55356141313 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1156823513" name="AM98_010_TIR_glass2">
+			<mesh_name>guid://ebc3c1c620eaae6d727e3ce84bc47b276549be5a</mesh_name>
+			<surface name="AM98_010_glass" material="bc717a26f2934b4d986f7448bd748b07de6dccba"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96531832418e-06 6.70563848401 1.28748139634 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2131828155" name="AM98_010_TIR_windows">
+			<mesh_name>guid://59cf79f15f172a9c74d2454bb70b5a2edc6edbb5</mesh_name>
+			<surface name="AM98_010_glass" material="bc717a26f2934b4d986f7448bd748b07de6dccba"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96612350795e-06 6.71484871248 1.82264832709 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1767808812" name="AM98_010_TIR_metal_floor">
+			<mesh_name>guid://0e473990f60c3fafd484e942c39117b94b51ddc4</mesh_name>
+			<surface name="AM98_010_silver_2_bump" material="5ae798ac09d23c1b5eb1c2bee39b8b05583600a0"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -1.04337896636 7.66913688998 0.418847168433 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1420828724" name="AM98_010_TIR_headlights_glass">
+			<mesh_name>guid://56174e538aedff961400b1fde917cb3866149537</mesh_name>
+			<surface name="AM98_010_headlight_glass" material="f277d60231fb9d7967c52884047a9a135be75856"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96591818292e-06 6.71250006791 1.55356141313 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1526032362" name="AM98_010_TIR_carpaint">
+			<mesh_name>guid://314d712aa58e6e812f4af5ec8545785b6fcd51fe</mesh_name>
+			<surface name="AM98_010_carpaint" material="38ea23a8e5efb2e7e372131a1a6047b1f02c1d5c"/>
+			<surface name="AM98_010_carpaint_black" material="0633a71e739263e5300844009bf2675fd5350d32"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -2.96612350795e-06 6.71484871248 1.82264832709 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1209354948" name="Box001">
+			<mesh_name>guid://ba555145a0e291e0ecef9bbff24ef612083e9e49</mesh_name>
+			<surface name="surface_0" material="4dfec30f491f753f6e89094db6d3d695e89f9d6f"/>
+			<transform>1 8.74227800037e-08 -8.74227800037e-08 0.0 8.74227800037e-08 7.70397479886e-15 1 0.0 8.74227800037e-08 -1 6.12323161595e-17 0.0 -4.60093102138e-15 5.26285142292e-08 1.20400001526 1.0</transform>
+		</node>
+	</node>
+</nodes>

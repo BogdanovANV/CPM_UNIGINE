@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>5ae798ac09d23c1b5eb1c2bee39b8b05583600a0</guid>
+	<type>material</type>
+	<hash>81d541de</hash>
+	<runtimes>
+		<runtime id="5ae798ac09d23c1b5eb1c2bee39b8b05583600a0" name="am98_010_silver_2_bump" link="0" type="5"/>
+	</runtimes>
+</asset>

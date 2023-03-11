@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>59dc0342c75969b94f2a07c4c2cd7053f3b9b996</guid>
+	<type>material</type>
+	<hash>7b57385a</hash>
+	<runtimes>
+		<runtime id="59dc0342c75969b94f2a07c4c2cd7053f3b9b996" name="transmission" link="0" type="5"/>
+	</runtimes>
+</asset>

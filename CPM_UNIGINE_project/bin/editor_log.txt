@@ -1,0 +1,514 @@
+18:51:24 
+18:51:24 ---- Engine ----
+18:51:24 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+18:51:24 Binary: Windows 64-bit Visual C++ 1900 Release
+18:51:24 Engine features: Direct3D11 OpenAL Microprofile DoubleCoords HalfTexCoords Development
+18:51:24 
+18:51:24 ---- Configs ----
+18:51:24 Loading boot config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/editor.boot"...
+18:51:24 Loading user config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
+18:51:24 Using config file "configs/default.config"
+18:51:24 Using boot config file "configs/editor.boot"
+18:51:25 Using user config file "configs/default.user"
+18:51:26 Using controls config file "configs/default.controls"
+18:51:26 
+18:51:26 ---- Engine Microprofile ----
+18:51:26 
+18:51:26 ---- GPU Detection ----
+18:51:26 GPU 0: Radeon RX 570 Series 8170 MB (Active)
+18:51:26 GPU 1: Microsoft Basic Render Driver 8167 MB
+18:51:26 
+18:51:26 ---- System ----
+18:51:26 OS:		Windows 10 (build 22621) 64-bit
+18:51:26 
+18:51:26 CPU:	AMD Ryzen 5 3600 6-Core Processor              
+18:51:26 		Frequency: 3593MHz
+18:51:26 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
+18:51:26 		Cores:6 Threads:12
+18:51:26 
+18:51:26 		System memory: 16335 MB
+18:51:26 		Sync threads:  11
+18:51:26 		Async threads: 6
+18:51:26 
+18:51:26 GPU:	Radeon RX 570 Series
+18:51:26 		Video memory:  8170 MB
+18:51:26 
+18:51:26 
+18:51:26 ---- Application ----
+18:51:26 
+18:51:26 ---- System Proxy ----
+18:51:26 
+18:51:26 ---- Render ----
+18:51:26 Loading "dxgi.dll"...
+18:51:26 Direct3D 11 initialization
+18:51:26 Renderer: AMD 8170MB
+18:51:26 Renderer API: Direct3D 11.0
+18:51:26 Maximum texture size:    16384
+18:51:26 Maximum texture units:   16
+18:51:26 
+18:51:26 ---- Load cache textures ----
+18:51:26 Cache textures loaded 789 (78ms)
+18:51:26 
+18:51:26 Render initialization: 330ms
+18:51:26 
+18:51:26 
+18:51:26 ---- Filesystem ----
+18:51:26 App path:  C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+18:51:26 Data path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/
+18:51:26 Save path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+18:51:27 
+18:51:27 Runtimes loaded: 315 19ms
+18:51:27 Filesystem initialization: 167ms
+18:51:27 
+18:51:27 
+18:51:27 ---- Sound ----
+18:51:27 Loading "openal32.dll"...
+18:51:27 Renderer: OpenAL Soft on Realtek HD Audio 2nd output (Realtek(R) Audio)
+18:51:27 OpenAL vendor:   OpenAL Community
+18:51:27 OpenAL renderer: OpenAL Soft
+18:51:27 OpenAL version:  1.1 ALSOFT 1.19.1
+18:51:27 Found AL_EXT_LINEAR_DISTANCE
+18:51:27 Found AL_EXT_OFFSET
+18:51:27 Found ALC_EXT_EFX
+18:51:27 Found ALC_SOFT_HRTF
+18:51:27 Found EFX Filter
+18:51:27 Found EFX Reverb
+18:51:27 Found EAX Reverb
+18:51:27 Found QUAD16 format
+18:51:27 Found 51CHN16 format
+18:51:27 Found 61CHN16 format
+18:51:27 Found 71CHN16 format
+18:51:27 Device enumeration supported
+18:51:27 Maximum sources:         256
+18:51:27 Maximum effect slots:    16
+18:51:27 Maximum auxiliary sends: 2
+18:51:27 Output sampling frequency: 48000hz
+18:51:27 HRTF not enabled!
+18:51:27 
+18:51:27 Sound: openal
+18:51:27 Sound initialization: 23ms
+18:51:27 
+18:51:27 ---- Physics ----
+18:51:27 
+18:51:27 ---- PathFind ----
+18:51:27 
+18:51:27 Loading controls "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
+18:51:27 Loading config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
+18:51:27 
+18:51:27 ---- Materials ----
+18:51:28 Engine base materials loaded: 174 / 174 (79ms)
+18:51:28 Engine materials loaded:      65 / 65 (10ms)
+18:51:29 User base materials loaded:   5 / 5 (25ms)
+18:51:29 User materials loaded:        1222 / 1222 (428ms)
+18:51:29 Total materials: 1466
+18:51:29 
+18:51:30 
+18:51:30 ---- Properties ----
+18:51:31 Properties loaded:            12 / 12 (4ms)
+18:51:32 
+18:51:42 Engine initialization: 18157ms
+18:51:42 
+18:51:42 
+18:51:42 
+18:51:42 ---- Plugins ----
+18:51:42 Loading "FbxImporter_double_x64.dll"...
+18:51:42 Loading "GLTFImporter_double_x64.dll"...
+18:51:42 Loading "FbxExporter_double_x64.dll"...
+18:51:42 Plugins initialization: 3ms
+18:51:42 
+18:51:42 Script loading "editor2/editor.usc" 39ms
+18:51:42 ---- UnigineEditor ----
+18:51:42 Version: 2.16.1.0 ver-2.16.1.0-6698bfb Dec 15 2022
+18:51:42 Binary: Windows MSVC 19.0.24215.1 
+18:51:42 
+18:51:42 
+18:51:42 ---- UnigineEditor Material Editor ----
+18:51:42 UnigineEditor Material Editor initialization: 9ms
+18:51:42 
+18:51:42 
+18:51:42 ---- UnigineEditor Asset Manager ----
+18:51:43 Run migration 2.8.0.0
+18:51:43 Run migration 2.9.0.0
+18:51:43 Run migration 2.10.0.0
+18:51:43 Run migration 2.11.0.0
+18:51:43 Run migration 2.12.0.0
+18:51:43 Run migration 2.12.0.1
+18:51:43 Run migration 2.12.0.2
+18:51:43 Run migration 2.13.0.0
+18:51:43 Run migration 2.14.0.0
+18:51:43 Run migration 2.14.1.0
+18:51:43 Run migration 2.15.0.0
+18:51:43 Run migration 2.15.0.1
+18:51:43 Run migration 2.15.1.0
+18:51:43 Run migration 2.16.0.0
+18:51:43 Run migration 2.16.0.1
+18:51:44 Run migration 2.16.0.2
+18:51:44 Run migration 2.16.1.0
+18:51:44 Migration 289.798000 ms
+18:51:44 ERROR:	"ImportPropertyStage: Property import error. (filepath: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/visual.prop)"
+18:51:44 UnigineEditor Asset Manager initialization: 1509ms
+18:51:44 
+18:51:44 
+18:51:44 ---- UnigineEditor Auxiliary Systems ----
+18:51:44 ERROR:	Reflection::reflect(): can't reflect "Importer" name
+18:51:44 ERROR:	Reflection::reflect(): can't reflect "import" name
+18:51:44 [C# Component System] Available .NET SDKs: 6.0.401, 7.0.200
+18:51:44 [C# Component System] Required .NET SDK 6.0 found.
+18:51:44 [C# Component System] Initialized successfully.
+18:51:44 Run ' dotnet ' process with args:
+18:51:44  (build, -c, Debug, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:51:44 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:51:46 ╨Ю╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨╡╨║╤В╨╛╨▓ ╨┤╨╗╤П ╨▓╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤П...
+18:51:46 ╨Т╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜ C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj (╨╖╨░ 72 ms).
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:52:03 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:52:03 ╨Ю╤И╨╕╨▒╨╛╨║: 5
+18:52:03 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:17.46
+18:52:03 UnigineEditor Auxiliary Systems initialization: 19327ms
+18:52:03 
+18:52:03 
+18:52:03 ---- UnigineEditor GUI Components ----
+18:52:04 [Build Tool] Project file is found ( "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project.project" ).
+18:52:04 [Build Tool] The SDK path ( "D:/UNIGINE_Community_Windows_2.16.1/sdks/community_windows_2.16.1/bin/" ) doesn't exist.
+18:52:05 [Build Tool] The SDK path ( "D:/UNIGINE_Community_Windows_2.16.1/sdks/community_windows_2.16.1/bin/" ) doesn't exist.
+18:52:05 UnigineEditor GUI Components initialization: 2454ms
+18:52:05 
+18:52:05 
+18:52:05 ---- UnigineEditor Plugins ----
+18:52:05 Editor.PluginSystem: Plugin search paths:  QVector("C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/editor")
+18:52:05 UnigineEditor Plugins initialization: 0ms
+18:52:05 
+18:52:05 ---- Interpreter ----
+18:52:05 Version: 2.90
+18:52:05 
+18:52:05 Unigine~# config_autosave 1 && world_load "CPM_UNIGINE_project"
+18:52:05 Script loading "core/unigine.usc" 12ms
+18:52:08 World loading "CPM_UNIGINE_project.world" 93ms
+18:52:08 
+18:52:08 ---- Load cache textures ----
+18:52:08 Cache textures loaded 443 (68ms)
+18:52:08 
+18:52:09 UnigineEditor initialization: 45537ms
+18:52:09 
+18:52:09 Run migration 2.8.0.0
+18:52:09 Run migration 2.9.0.0
+18:52:09 Run migration 2.10.0.0
+18:52:09 Run migration 2.11.0.0
+18:52:09 Run migration 2.12.0.0
+18:52:09 Run migration 2.12.0.1
+18:52:09 Run migration 2.12.0.2
+18:52:09 Run migration 2.13.0.0
+18:52:09 Run migration 2.14.0.0
+18:52:09 Run migration 2.14.1.0
+18:52:09 Run migration 2.15.0.0
+18:52:09 Run migration 2.15.0.1
+18:52:09 Run migration 2.15.1.0
+18:52:09 Run migration 2.16.0.0
+18:52:09 Run migration 2.16.0.1
+18:52:09 Run migration 2.16.0.2
+18:52:09 Run migration 2.16.1.0
+18:52:09 Migration 282.871000 ms
+18:58:44 Unigine~# world_save
+18:58:44 Saving "CPM_UNIGINE_project.world"
+18:58:45 Run ' dotnet ' process with args:
+18:58:45  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+18:58:45 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+18:58:46 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+18:58:46 ╨Ю╤И╨╕╨▒╨╛╨║: 5
+18:58:46 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.57
+19:00:09 ERROR:	"Presenter::rename_asset_handle: A property with the specified name (Andrew_Bogdanov) already exists in the project. Please try setting another name."
+19:06:27 Unigine~# world_save
+19:06:27 Saving "CPM_UNIGINE_project.world"
+19:06:27 Run ' dotnet ' process with args:
+19:06:27  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:06:27 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:06:29 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:06:29 CSPropertyGenerator started
+19:06:30 Created properties:
+19:06:30 0) Andrew_Bogdanov (Andrew_Bogdanov.prop)
+19:06:30 CSPropertyGenerator completed successfully in 1,34 seconds
+19:06:30 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:06:30 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:06:30 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:06:30 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.31
+19:06:30 Run ' dotnet ' process with args:
+19:06:30  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:06:30 Run migration 2.8.0.0
+19:06:30 Run migration 2.9.0.0
+19:06:30 Run migration 2.10.0.0
+19:06:30 Run migration 2.11.0.0
+19:06:30 Run migration 2.12.0.0
+19:06:30 Run migration 2.12.0.1
+19:06:30 Run migration 2.12.0.2
+19:06:30 Run migration 2.13.0.0
+19:06:30 Run migration 2.14.0.0
+19:06:30 Run migration 2.14.1.0
+19:06:30 Run migration 2.15.0.0
+19:06:30 Run migration 2.15.0.1
+19:06:30 Run migration 2.15.1.0
+19:06:30 Run migration 2.16.0.0
+19:06:30 Run migration 2.16.0.1
+19:06:30 Run migration 2.16.0.2
+19:06:30 Run migration 2.16.1.0
+19:06:30 Migration 312.690000 ms
+19:07:49 Run ' dotnet ' process with args:
+19:07:49  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:07:49 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:07:50 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:07:50 CSPropertyGenerator started
+19:07:52 Created properties:
+19:07:52 0) Statuses (Statuses.prop)
+19:07:52 CSPropertyGenerator completed successfully in 1,56 seconds
+19:07:52 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:07:52 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:07:52 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:07:52 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.42
+19:07:52 Run ' dotnet ' process with args:
+19:07:52  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:07:52 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:07:53 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:07:53 CSPropertyGenerator started
+19:07:54 CSPropertyGenerator completed successfully in 1,53 seconds
+19:07:54 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:07:54 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:07:54 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:07:54 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.13
+19:07:54 Run ' dotnet ' process with args:
+19:07:54  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:07:56 Run migration 2.8.0.0
+19:07:56 Run migration 2.9.0.0
+19:07:56 Run migration 2.10.0.0
+19:07:56 Run migration 2.11.0.0
+19:07:56 Run migration 2.12.0.0
+19:07:56 Run migration 2.12.0.1
+19:07:56 Run migration 2.12.0.2
+19:07:56 Run migration 2.13.0.0
+19:07:56 Run migration 2.14.0.0
+19:07:56 Run migration 2.14.1.0
+19:07:56 Run migration 2.15.0.0
+19:07:56 Run migration 2.15.0.1
+19:07:56 Run migration 2.15.1.0
+19:07:56 Run migration 2.16.0.0
+19:07:56 Run migration 2.16.0.1
+19:07:56 Run migration 2.16.0.2
+19:07:56 Run migration 2.16.1.0
+19:07:56 Migration 298.101000 ms
+19:13:31 Unigine~# world_save
+19:13:31 Saving "CPM_UNIGINE_project.world"
+19:13:32 Run ' dotnet ' process with args:
+19:13:32  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:13:32 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:13:33 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:13:33 CSPropertyGenerator started
+19:13:34 CSPropertyGenerator completed successfully in 1,34 seconds
+19:13:34 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:13:34 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:13:34 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:13:34 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.97
+19:13:34 Run ' dotnet ' process with args:
+19:13:34  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:15:19 Run ' dotnet ' process with args:
+19:15:19  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:15:19 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:15:19 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:15:20 CSPropertyGenerator started
+19:15:21 CSPropertyGenerator completed successfully in 1,63 seconds
+19:15:21 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:15:21 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:15:21 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:15:21 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.47
+19:15:21 Run ' dotnet ' process with args:
+19:15:21  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:15:57 Run ' dotnet ' process with args:
+19:15:57  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:16:01 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:16:01 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:16:01 CSPropertyGenerator started
+19:16:03 CSPropertyGenerator completed successfully in 1,49 seconds
+19:16:03 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:16:03 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:16:03 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:16:03 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.10
+19:16:19 Run ' dotnet ' process with args:
+19:16:19  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:16:19 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:16:20 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:16:20 CSPropertyGenerator started
+19:16:23 CSPropertyGenerator completed successfully in 2,80 seconds
+19:16:23 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:16:23 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:16:23 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:16:23 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.67
+19:16:23 Run ' dotnet ' process with args:
+19:16:23  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:17:09 Run ' dotnet ' process with args:
+19:17:09  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:17:09 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:17:10 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:17:10 CSPropertyGenerator started
+19:17:11 CSPropertyGenerator completed successfully in 1,32 seconds
+19:17:11 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:17:11 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:17:11 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:17:11 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.94
+19:17:24 Run ' dotnet ' process with args:
+19:17:24  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:17:24 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:17:27 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:17:27 CSPropertyGenerator started
+19:17:28 CSPropertyGenerator completed successfully in 1,80 seconds
+19:17:28 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:17:28 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:17:28 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:17:28 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.00
+19:21:11 Run ' dotnet ' process with args:
+19:21:11  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:21:11 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(83,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(99,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(128,31): error CS1061: "GetStor1Data" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "stor1", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "stor1", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "GetStor1Data" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(140,31): error CS1061: "GetStor2Data" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "stor2", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "stor2", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "GetStor2Data" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(83,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(99,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(128,31): error CS1061: "GetStor1Data" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "stor1", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "stor1", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "GetStor1Data" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(140,31): error CS1061: "GetStor2Data" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "stor2", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "stor2", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "GetStor2Data" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:21:12 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:21:12 ╨Ю╤И╨╕╨▒╨╛╨║: 6
+19:21:12 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.71
+19:23:09 Run ' dotnet ' process with args:
+19:23:09  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:23:10 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(83,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(99,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(83,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(99,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:10 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:23:10 ╨Ю╤И╨╕╨▒╨╛╨║: 4
+19:23:10 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.65
+19:23:36 Run ' dotnet ' process with args:
+19:23:36  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:23:36 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:23:37 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:37 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:37 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+19:23:37 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:37 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:37 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:23:37 ╨Ю╤И╨╕╨▒╨╛╨║: 2
+19:23:37 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.75
+19:23:44 Unigine~# world_save
+19:23:44 Saving "CPM_UNIGINE_project.world"
+19:23:44 Run ' dotnet ' process with args:
+19:23:44  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:23:44 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:23:45 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:45 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:45 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+19:23:45 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(132,35): error CS1061: "str1" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str1" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:45 ERROR:	C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(144,37): error CS1061: "str2" ╨╜╨╡ ╤Б╨╛╨┤╨╡╤А╨╢╨╕╤В ╨╛╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╤П "Name", ╨╕ ╨╜╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╨┤╨╛╤Б╤В╤Г╨┐╨╜╤Л╨╣ ╨╝╨╡╤В╨╛╨┤ ╤А╨░╤Б╤И╨╕╤А╨╡╨╜╨╕╤П "Name", ╨┐╤А╨╕╨╜╨╕╨╝╨░╤О╤Й╨╕╨╣ ╤В╨╕╨┐ "str2" ╨▓ ╨║╨░╤З╨╡╤Б╤В╨▓╨╡ ╨┐╨╡╤А╨▓╨╛╨│╨╛ ╨░╤А╨│╤Г╨╝╨╡╨╜╤В╨░ (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨┐╤А╨╛╨┐╤Г╤Й╨╡╨╜╨░ ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+19:23:45 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:23:45 ╨Ю╤И╨╕╨▒╨╛╨║: 2
+19:23:45 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.66
+19:24:06 Run ' dotnet ' process with args:
+19:24:06  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:24:07 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:24:07 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:24:08 CSPropertyGenerator started
+19:24:09 Created properties:
+19:24:09 0) GUI (GUI.prop)
+19:24:09 CSPropertyGenerator completed successfully in 1,38 seconds
+19:24:09 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:24:09 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:24:09 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:24:09 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:02.23
+19:24:11 Run migration 2.8.0.0
+19:24:11 Run migration 2.9.0.0
+19:24:11 Run migration 2.10.0.0
+19:24:11 Run migration 2.11.0.0
+19:24:11 Run migration 2.12.0.0
+19:24:11 Run migration 2.12.0.1
+19:24:11 Run migration 2.12.0.2
+19:24:11 Run migration 2.13.0.0
+19:24:11 Run migration 2.14.0.0
+19:24:11 Run migration 2.14.1.0
+19:24:11 Run migration 2.15.0.0
+19:24:11 Run migration 2.15.0.1
+19:24:11 Run migration 2.15.1.0
+19:24:11 Run migration 2.16.0.0
+19:24:11 Run migration 2.16.0.1
+19:24:11 Run migration 2.16.0.2
+19:24:11 Run migration 2.16.1.0
+19:24:11 Migration 318.990000 ms
+19:24:12 Run ' dotnet ' process with args:
+19:24:12  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:24:12 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:24:13 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:24:13 CSPropertyGenerator started
+19:24:14 CSPropertyGenerator completed successfully in 1,37 seconds
+19:24:14 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:24:14 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:24:14 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:24:14 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.99
+19:24:14 Run ' dotnet ' process with args:
+19:24:14  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:25:06 Unigine~# world_save
+19:25:06 Saving "CPM_UNIGINE_project.world"
+19:25:06 Run ' dotnet ' process with args:
+19:25:06  (build, -c, Debug, --no-restore, C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+19:25:06 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+19:25:08 CPM_UNIGINE_project - Backup -> C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+19:25:08 CSPropertyGenerator started
+19:25:11 CSPropertyGenerator completed successfully in 2,72 seconds
+19:25:11 ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
+19:25:11 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+19:25:11 ╨Ю╤И╨╕╨▒╨╛╨║: 0
+19:25:11 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.19
+19:25:11 Run ' dotnet ' process with args:
+19:25:11  (CPM_UNIGINE_project_x64d.dll, -console_command, world_load "CPM_UNIGINE_project", -video_app, dx, -main_window_size, 1600, 900, -main_window_fullscreen, 0, -main_window_borders, 1, -video_debug, 0, -materials_loading_mode, 1)
+19:25:28 Unigine~# world_save
+19:25:28 Saving "CPM_UNIGINE_project.world"
+19:25:30 Close "openal32.dll"
+19:25:30 ERROR:	D3D11Ext::shutdown(): 29 unreleased references
+19:25:30 Total RAM:           62.7 MB
+19:25:30 - system RAM used:   46.1 MB
+19:25:30 - pool RAM reserved: 16.6 MB
+19:25:30 - pool RAM used:     4.4 MB
+19:25:30 Total allocs:        484783
+19:25:30 - system allocs:     303807
+19:25:30 - 16b pool allocs:   133342
+19:25:30 - 32b pool allocs:   17684
+19:25:30 - 64b pool allocs:   29950
+
+
+Shutdown
