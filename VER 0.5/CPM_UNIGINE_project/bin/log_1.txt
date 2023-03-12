@@ -1,0 +1,92 @@
+13:27:00 
+13:27:00 ---- Engine ----
+13:27:00 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+13:27:00 Binary: Windows 64-bit Visual C++ 1900 Debug
+13:27:00 Engine features: Direct3D11 OpenAL DoubleCoords HalfTexCoords Debug
+13:27:00 
+13:27:00 ---- Configs ----
+13:27:00 Loading boot config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.boot"...
+13:27:00 Loading user config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
+13:27:00 Using config file "configs/default.config"
+13:27:00 Using boot config file "configs/default.boot"
+13:27:00 Using user config file "configs/default.user"
+13:27:00 Using controls config file "configs/default.controls"
+13:27:00 ---- System ----
+13:27:00 OS:		Windows 10 (build 22621) 64-bit
+13:27:00 
+13:27:00 CPU:	AMD Ryzen 5 3600 6-Core Processor              
+13:27:00 		Frequency: 3593MHz
+13:27:00 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
+13:27:00 		Cores:6 Threads:12
+13:27:00 
+13:27:00 		System memory: 16335 MB
+13:27:00 		Sync threads:  11
+13:27:00 		Async threads: 6
+13:27:00 
+13:27:00 GPU:	GPU Unknown
+13:27:00 		Video memory:  0 MB
+13:27:00 
+13:27:00 
+13:27:00 ---- Application ----
+13:27:00 
+13:27:00 ---- System Proxy ----
+13:27:00 
+13:27:00 ---- Render ----
+13:27:00 NULL
+13:27:00 
+13:27:00 ---- Load cache textures ----
+13:27:00 Cache textures loaded 789 (58ms)
+13:27:00 
+13:27:00 Render initialization: 59ms
+13:27:00 
+13:27:00 
+13:27:00 ---- Filesystem ----
+13:27:00 App path:  C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+13:27:00 Data path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/
+13:27:00 Save path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+13:27:00 
+13:27:00 Runtimes loaded: 316 27ms
+13:27:00 Filesystem initialization: 139ms
+13:27:00 
+13:27:00 
+13:27:00 ---- Sound ----
+13:27:00 Sound: null
+13:27:00 Sound initialization: 0ms
+13:27:00 
+13:27:00 ---- Physics ----
+13:27:00 
+13:27:00 ---- PathFind ----
+13:27:00 
+13:27:00 Loading controls "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
+13:27:00 Loading config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
+13:27:00 
+13:27:00 ---- Materials ----
+13:27:01 Engine base materials loaded: 174 / 174 (85ms)
+13:27:01 Engine materials loaded:      65 / 65 (10ms)
+13:27:01 User base materials loaded:   5 / 5 (25ms)
+13:27:01 User materials loaded:        1222 / 1222 (711ms)
+13:27:01 Total materials: 1466
+13:27:01 
+13:27:01 
+13:27:01 ---- Properties ----
+13:27:01 Properties loaded:            14 / 14 (7ms)
+13:27:01 
+13:27:01 Engine initialization: 1996ms
+13:27:01 
+13:27:01 
+13:27:01 
+13:27:01 ---- Plugins ----
+13:27:01 Plugins initialization: 0ms
+13:27:01 
+13:27:02 Total RAM:           18.5 MB
+13:27:02 - system RAM used:   11.5 MB
+13:27:02 - pool RAM reserved: 7.0 MB
+13:27:02 - pool RAM used:     2.3 MB
+13:27:02 Total allocs:        178290
+13:27:02 - system allocs:     39880
+13:27:02 - 16b pool allocs:   132472
+13:27:02 - 32b pool allocs:   2302
+13:27:02 - 64b pool allocs:   3636
+
+
+Shutdown

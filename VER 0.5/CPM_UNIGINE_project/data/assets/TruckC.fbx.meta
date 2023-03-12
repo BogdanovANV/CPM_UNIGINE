@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>98c6c6558fd9e3b09767a34f2a7ab8624bb35c59</guid>
+	<type>fbx</type>
+	<hash>3c47f7c8</hash>
+	<runtimes>
+		<runtime id="98c6c6558fd9e3b09767a34f2a7ab8624bb35c59" name="TruckC.fbx" link="0"/>
+		<runtime id="70bf14d5213ce030128975cf739168e248ad52d9" name="TruckC.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">a12c7c54</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="136f9e6429f9d673dacba93604780f1dc66245d8" name="am98_010_tir_carpaint.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4f82ae5d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="49588f573e89e4cab2520da150c0ca8cee99047b" name="am98_010_tir_headlights_glass.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a421229</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c2002f9ecfd85265071c608053d2d9dfc7b9ddb2" name="am98_010_tir_metal_floor.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1ea29e9b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="15962169699f7bb43965f3838d6d8306d8c8fead" name="am98_010_tir_windows.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6bd4242c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="3301d028e05e7567bb10f39a4764ae31fcbc51dc" name="am98_010_tir_glass2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">dc56111e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1918c38b792d436e025733f52c7d34d08a2581ef" name="am98_010_tir_chrome_stripes.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">77bb0f6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e272c682da0cd3f91edbed04936d9493e48d10d6" name="am98_010_tir_black_plastic.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6fec861b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b134123dc34d2e7871961f77e436f66ac9c1b2c1" name="am98_010_tir_rim_cap_fl.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">40a27a53</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1d56ed2c85a4869bb88e8b3e0034b9855f045d20" name="am98_010_tir_white_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">367af3e5</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e4e26dffd1a92352b91a6a899099f2549501b9a3" name="am98_010_tir_silver_dirt.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2723a708</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9e6752a684d249cdf98960c818808d878588ed3a" name="am98_010_tir_black_metal.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b775de99</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="bd921b51bea59c7c2f4d4dab0601070ea3a9e315" name="am98_010_tir_taillights.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7fe741</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6996d970efaa9e0fd289f422bc07e5194d8e8ba4" name="am98_010_tir_rim_cap_01.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5f497bb6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9b5362b3fc79487674fca55dfd3b6718d4debf97" name="am98_010_tir_blue_metal.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">55b3b457</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="81d3d80a553ee7e145fd5fcc196418bbd2a1b6de" name="am98_010_tir_register_plate_front.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bab152f7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="392fb0a56459a9c0a25f121f218238f2625e43a9" name="am98_010_tir_black_plastic_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4efb7b96</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="65aeb8f413d38fc3937ff2465d4c24edeb284168" name="am98_010_tir_scania_logo.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d6b85a36</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9ab1b5a7a324b6da01711871c1f3371c5f79e7cb" name="am98_010_tir_blinkers.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c72a9bcf</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4acd9aae0f7f223504b1ce107120ca2fca3ef1c2" name="am98_010_tir_tire_fl.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">50ea0dc4</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="31e68639ba2f7a448c3340d31b7850166399c87d" name="am98_010_tir_tire_fr.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7d949f8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2554efb8623a6fb76ac889aa0111ad013a5c226c" name="am98_010_tir_tire_01.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c74d4c23</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="455fbadb2621b27e079137c5ed4446605c50c63f" name="am98_010_tir_tire_02.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">702b3868</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="77ad1e9246a9acc94d85cf94c26375e33f9f61e6" name="am98_010_tir_tire_03.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">64f8b527</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="87fe900da306720837f9edc7e14c507af149a591" name="am98_010_tir_tire_04.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c0baf8e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="004d21bc472691eb777afe4e249ef155fdf612b0" name="am98_010_tir_tire_05.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">66ed0963</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0090064f43f9bf62e2f0b7599366b8e4b4952ef3" name="am98_010_tir_tire_06.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">faeeb96b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6e7227b634d37b9d40c1c8584cb12fd7667d0b4a" name="am98_010_tir_tire_07.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">69c82094</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5d820221fe1b350c291f6cfb7cf67e1e1c214ee5" name="am98_010_tir_tire_08.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9b0f4b73</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a3ec3300a6bf8a5f8891d432ff44a5e9c0c73634" name="am98_010_tir_tire_09.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7472c504</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b1396c03a9ada186ceb18b2d104bf2a8056135e7" name="am98_010_tir_tire_10.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d8dccf89</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8167ba1a4f63c2b1075b5c5c07db4c0b6ff131ee" name="am98_010_tir_white_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">23aad354</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e5d15075298ba7505400526fae225d02da6e7879" name="am98_010_tir_rim_11.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">cea8094a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1bdc478467012d13564ecf564471bebda8a9f0f8" name="am98_010_tir_orange_light_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c3eeb594</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0b4afff7b0595ceaded7e74128e297ac682b2f1b" name="am98_010_tir_register_plate_back.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5b057db6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="550819be4ba7f60506796fa0d9b35e7ffc9859d2" name="am98_010_tir_reflection_marking.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1295ce19</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="89772f094c1aecd4f4dd72230c92b1269f2d164d" name="am98_010_tir_white_metal.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">130a3a29</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7620c3485bef8e0738def3bac2076fd1f8c5e6fc" name="am98_010_tir_sides_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d4644c9b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4720162bcc18358e79de3f952f9a8bf0e579ae8f" name="am98_010_tir_tire_11.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3256455f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6b20caa287a7c999aa382624f9ff3b3367f646f6" name="am98_010_tir_orange_light.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b911c11</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="923c91dd0a356998590fe017f7c57e8add5b5c61" name="am98_010_tir_chrome_squares.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1459d73f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e65a4a4c2a0b013be03e855e8eed2d256713fc40" name="am98_010_tir_rim_fl.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1b81ec88</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1134429f7028af72468948299028f374a5d78843" name="am98_010_tir_rim_fr.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ffa7a108</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d73690c60b39316d6bace3e8d8acf6273119fd5a" name="am98_010_tir_rim_cap_fr.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">21e3fd37</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d37cacf18a34c19c2e7cf04bd7d8092e2b8dbeb5" name="am98_010_tir_rim_01.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e05fbcf3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8c4ac090f3041aafd15d0842bde4aab9a92254c4" name="am98_010_tir_rim_02.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a12958d6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c81759536c508e96c1fbf4fd668c32383507d037" name="am98_010_tir_rim_03.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3932f907</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6029702a95546181f62a4cec1a46e35b0481c0fe" name="am98_010_tir_rim_04.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">65836f8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="02b8f445ebe3d8e02d4a36bf73aad512fbc2f149" name="am98_010_tir_rim_cap_02.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">cd37a8bb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="41994a14e0afae63ac814066c89ddc8ddc185488" name="am98_010_tir_rim_cap_03.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">90036027</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5ca16e470780d6faf20b7a11054fec3c6b79da6b" name="am98_010_tir_rim_cap_04.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7d8ab9b6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9318acce69a7cdd58fc445307ea796cf2b3f15e2" name="am98_010_tir_rim_05.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5b3a4192</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b46d1bd99742d3642fd187736045a6361b77e81d" name="am98_010_tir_rim_06.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c05074ea</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="12d64ad8e23ad05780ed31ca270af6a1abfa9f8c" name="am98_010_tir_rim_07.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a66b552d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6866d57b5bb9cc9ee7d34b658f110580d1fd3adf" name="am98_010_tir_rim_08.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ddcbc6eb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8b86cab2d26c2a692913f0b4c5ede483635ac006" name="am98_010_tir_rim_09.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2814eb64</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="312317ad068b15280cd4f667cd7b809a6ffbd731" name="am98_010_tir_rim_10.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">8f533a6c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="47bf66dc2f9ed48bb1c2206ec6f46cf55e2f19d0" name="am98_010_tir_rim_cap_05.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">036f551f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4e6c22efb72ef38206891cf90741a20493b5c593" name="am98_010_tir_rim_cap_06.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">952966d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="74bd8dd68a786b3db83bb378e7b0e0776578c36a" name="am98_010_tir_rim_cap_07.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6ad224fa</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="96c71bc1ef73422cc7f2d79b33cea83ea3043285" name="am98_010_tir_rim_cap_08.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">137d54d1</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1ec3822067554eff3024905257ccf3892340e754" name="am98_010_tir_rim_cap_09.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bf956117</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7a1a2aa306ab0fa64290e2cd7e2d25c8524f8e87" name="am98_010_tir_rim_cap_10.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3939d982</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0871fa3a8395c451c32b317c3073deab9bbc640e" name="am98_010_tir_silver_dirt_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">47da7c61</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="fa3b9c15efb33e70ec59bf0fa794a122b380ae19" name="am98_010_tir_black_metal_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">dac7e28c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9fc6c0a45a4c13b30ea045769ec57e5d53e46c18" name="am98_010_tir_red_light_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9bbd9fcf</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="107200978d34250accd0d0e13c3c34cc7072e9bb" name="am98_010_tir_white_light_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">90dd6448</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8ea853debd13a9a53d234ec0195a731fcdec25f2" name="am98_010_tir_taillights_trailer.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9debd166</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7d2d4ca920c82df425bc80c3d55a2f469eaf3ded" name="am98_010_tir_grill.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">130ebf7a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2a268668da1936a7b1cc43da472141717d3b4c1c" name="am98_010_tir_logos.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b2d6f11f</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="int" name="front_axis">0</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="int" name="import_materials_mode">0</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://9e6752a684d249cdf98960c818808d878588ed3a&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://fa3b9c15efb33e70ec59bf0fa794a122b380ae19&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e272c682da0cd3f91edbed04936d9493e48d10d6&quot;:{&quot;AM98_010_black_plastic&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://392fb0a56459a9c0a25f121f218238f2625e43a9&quot;:{&quot;AM98_010_black_plastic&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9ab1b5a7a324b6da01711871c1f3371c5f79e7cb&quot;:{&quot;AM98_010_glass_white_texture&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;AM98_010_glass_orange_texture_2&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9b5362b3fc79487674fca55dfd3b6718d4debf97&quot;:{&quot;AM98_010_blue_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://136f9e6429f9d673dacba93604780f1dc66245d8&quot;:{&quot;AM98_010_carpaint&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;AM98_010_carpaint_black&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://923c91dd0a356998590fe017f7c57e8add5b5c61&quot;:{&quot;AM98_010_chrome_squares&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1918c38b792d436e025733f52c7d34d08a2581ef&quot;:{&quot;AM98_010_chrome_stripes&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://3301d028e05e7567bb10f39a4764ae31fcbc51dc&quot;:{&quot;AM98_010_glass&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7d2d4ca920c82df425bc80c3d55a2f469eaf3ded&quot;:{&quot;AM98_010_black_plastic_grill&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://49588f573e89e4cab2520da150c0ca8cee99047b&quot;:{&quot;AM98_010_headlight_glass&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2a268668da1936a7b1cc43da472141717d3b4c1c&quot;:{&quot;AM98_010_chrome9&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c2002f9ecfd85265071c608053d2d9dfc7b9ddb2&quot;:{&quot;AM98_010_silver_2_bump&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6b20caa287a7c999aa382624f9ff3b3367f646f6&quot;:{&quot;AM98_010_orange_light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1bdc478467012d13564ecf564471bebda8a9f0f8&quot;:{&quot;AM98_010_orange_light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9fc6c0a45a4c13b30ea045769ec57e5d53e46c18&quot;:{&quot;AM98_010_red_light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://550819be4ba7f60506796fa0d9b35e7ffc9859d2&quot;:{&quot;AM98_010_reflection_marking&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0b4afff7b0595ceaded7e74128e297ac682b2f1b&quot;:{&quot;AM98_010_register_plate&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://81d3d80a553ee7e145fd5fcc196418bbd2a1b6de&quot;:{&quot;AM98_010_register_plate&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d37cacf18a34c19c2e7cf04bd7d8092e2b8dbeb5&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8c4ac090f3041aafd15d0842bde4aab9a92254c4&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c81759536c508e96c1fbf4fd668c32383507d037&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6029702a95546181f62a4cec1a46e35b0481c0fe&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9318acce69a7cdd58fc445307ea796cf2b3f15e2&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b46d1bd99742d3642fd187736045a6361b77e81d&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://12d64ad8e23ad05780ed31ca270af6a1abfa9f8c&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6866d57b5bb9cc9ee7d34b658f110580d1fd3adf&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8b86cab2d26c2a692913f0b4c5ede483635ac006&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://312317ad068b15280cd4f667cd7b809a6ffbd731&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e5d15075298ba7505400526fae225d02da6e7879&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6996d970efaa9e0fd289f422bc07e5194d8e8ba4&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://02b8f445ebe3d8e02d4a36bf73aad512fbc2f149&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://41994a14e0afae63ac814066c89ddc8ddc185488&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5ca16e470780d6faf20b7a11054fec3c6b79da6b&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://47bf66dc2f9ed48bb1c2206ec6f46cf55e2f19d0&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4e6c22efb72ef38206891cf90741a20493b5c593&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://74bd8dd68a786b3db83bb378e7b0e0776578c36a&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://96c71bc1ef73422cc7f2d79b33cea83ea3043285&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1ec3822067554eff3024905257ccf3892340e754&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7a1a2aa306ab0fa64290e2cd7e2d25c8524f8e87&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b134123dc34d2e7871961f77e436f66ac9c1b2c1&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d73690c60b39316d6bace3e8d8acf6273119fd5a&quot;:{&quot;AM98_010_black_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e65a4a4c2a0b013be03e855e8eed2d256713fc40&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1134429f7028af72468948299028f374a5d78843&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://65aeb8f413d38fc3937ff2465d4c24edeb284168&quot;:{&quot;AM98_010_white&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7620c3485bef8e0738def3bac2076fd1f8c5e6fc&quot;:{&quot;AM98_010_silver_2&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e4e26dffd1a92352b91a6a899099f2549501b9a3&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0871fa3a8395c451c32b317c3073deab9bbc640e&quot;:{&quot;AM98_010_silver_dirt&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://bd921b51bea59c7c2f4d4dab0601070ea3a9e315&quot;:{&quot;AM98_010_Material #25&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8ea853debd13a9a53d234ec0195a731fcdec25f2&quot;:{&quot;AM98_010_Material #25&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2554efb8623a6fb76ac889aa0111ad013a5c226c&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://455fbadb2621b27e079137c5ed4446605c50c63f&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://77ad1e9246a9acc94d85cf94c26375e33f9f61e6&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://87fe900da306720837f9edc7e14c507af149a591&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://004d21bc472691eb777afe4e249ef155fdf612b0&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0090064f43f9bf62e2f0b7599366b8e4b4952ef3&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6e7227b634d37b9d40c1c8584cb12fd7667d0b4a&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5d820221fe1b350c291f6cfb7cf67e1e1c214ee5&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a3ec3300a6bf8a5f8891d432ff44a5e9c0c73634&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b1396c03a9ada186ceb18b2d104bf2a8056135e7&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4720162bcc18358e79de3f952f9a8bf0e579ae8f&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4acd9aae0f7f223504b1ce107120ca2fca3ef1c2&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://31e68639ba2f7a448c3340d31b7850166399c87d&quot;:{&quot;AM98_010_tire&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1d56ed2c85a4869bb88e8b3e0034b9855f045d20&quot;:{&quot;AM98_010_white_light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://107200978d34250accd0d0e13c3c34cc7072e9bb&quot;:{&quot;AM98_010_white_light&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://89772f094c1aecd4f4dd72230c92b1269f2d164d&quot;:{&quot;AM98_010_white_metal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8167ba1a4f63c2b1075b5c5c07db4c0b6ff131ee&quot;:{&quot;AM98_010_white&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://15962169699f7bb43965f3838d6d8306d8c8fead&quot;:{&quot;AM98_010_glass&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">am98_010_carpaint_black,0633a71e739263e5300844009bf2675fd5350d32,am98_010_carpaint,38ea23a8e5efb2e7e372131a1a6047b1f02c1d5c,am98_010_headlight_glass,f277d60231fb9d7967c52884047a9a135be75856,am98_010_silver_2_bump,5ae798ac09d23c1b5eb1c2bee39b8b05583600a0,am98_010_glass,bc717a26f2934b4d986f7448bd748b07de6dccba,am98_010_chrome_stripes,54bf5cf0dc9e4b8fe38ac3a22f3f6e99b5a98724,am98_010_black_plastic,be6e978ac4e7a16148f7cb4c86708e3bcc94ae5e,am98_010_black_metal,4f76947403eeb5433f51d9c654b1e66debec14e8,am98_010_white_light,545c722e811d13b54d701190892f37af741b8142,am98_010_silver_dirt,a55ba33815968d371bb7092a777b268121a04dec,am98_010_material #25,81eb8e128fc2564964cf6b1474955b6397190966,am98_010_blue_metal,384a2d3c1115276b61a995ce64d9a2d5f92a1630,am98_010_register_plate,b1f3af3679e45d1d81f63bd8c9e00d570f9f4aca,am98_010_white,db2f1680534a17df517c03b225960f69707291b4,am98_010_glass_white_texture,d317d99ab5625c31a3f227dcf018a18b049f896e,am98_010_glass_orange_texture_2,32cc830418693293544816d67817603d0bec2478,am98_010_tire,55aa513e6181c78561821320e1c8abff740e4952,am98_010_orange_light,b1bdd6c8e02e8b87ca92d33aa6b6c95130d6727c,am98_010_reflection_marking,ced09a22e7c253198bda21a488ee00b316474e76,am98_010_white_metal,93bbb5cc485276bb5c307cde6e53bea5d2c25fc0,am98_010_silver_2,44e77846b4f1f2ed8ca7b7681d2eb3a7deb19cda,am98_010_chrome_squares,fc200410313d882f8d6897c2e927f439d8561044,am98_010_red_light,6926efaa7e80db016355786c184d18db9da3787e,am98_010_black_plastic_grill,9ba9e59440fc93e39d59e7e6b1db5e0ddb50e808,am98_010_chrome9,4286444ec8157f55658f48b094dbc44f87866562</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="int" name="resolution">3</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="int" name="up_axis">0</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="int" name="workflow">0</parameter>
+	</parameters>
+</asset>

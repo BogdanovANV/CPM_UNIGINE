@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.1.0" name="Statuses" manual="1" parent_name="C# Components" editable="0">
+	<parameter name="sos1" type="int">0</parameter>
+	<parameter name="sos2" type="int">0</parameter>
+	<parameter name="sos3" type="int">0</parameter>
+	<parameter name="sos4" type="int">0</parameter>
+	<parameter name="sos5" type="int">0</parameter>
+	<parameter name="sos6" type="int">0</parameter>
+	<parameter name="sos7" type="int">0</parameter>
+	<parameter name="sos8" type="int">0</parameter>
+	<parameter name="sos9" type="int">0</parameter>
+	<parameter name="time" type="float">0</parameter>
+	<parameter name="rd1" type="node"/>
+	<parameter name="gr1" type="node"/>
+	<parameter name="bl1" type="node"/>
+	<parameter name="rd2" type="node"/>
+	<parameter name="gr2" type="node"/>
+	<parameter name="bl2" type="node"/>
+	<parameter name="rd3" type="node"/>
+	<parameter name="gr3" type="node"/>
+	<parameter name="bl3" type="node"/>
+	<parameter name="rd4" type="node"/>
+	<parameter name="gr4" type="node"/>
+	<parameter name="bl4" type="node"/>
+	<parameter name="rd5" type="node"/>
+	<parameter name="gr5" type="node"/>
+	<parameter name="bl5" type="node"/>
+	<parameter name="rd6" type="node"/>
+	<parameter name="gr6" type="node"/>
+	<parameter name="bl6" type="node"/>
+	<parameter name="rd7" type="node"/>
+	<parameter name="gr7" type="node"/>
+	<parameter name="bl7" type="node"/>
+	<parameter name="rd8" type="node"/>
+	<parameter name="gr8" type="node"/>
+	<parameter name="bl8" type="node"/>
+	<parameter name="rd9" type="node"/>
+	<parameter name="gr9" type="node"/>
+	<parameter name="bl9" type="node"/>
+	<parameter name="locrd1" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr1" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl1" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd2" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr2" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl2" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd3" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr3" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl3" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd4" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr4" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl4" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd5" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr5" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl5" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd6" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr6" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl6" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd7" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr7" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl7" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd8" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr8" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl8" type="dvec3">0 0 0</parameter>
+	<parameter name="locrd9" type="dvec3">0 0 0</parameter>
+	<parameter name="locgr9" type="dvec3">0 0 0</parameter>
+	<parameter name="locbl9" type="dvec3">0 0 0</parameter>
+</property>

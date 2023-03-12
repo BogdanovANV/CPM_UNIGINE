@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.16.1.0" name="GUI" manual="1" parent_name="C# Components" editable="0">
+	<parameter name="tts" type="string"/>
+	<parameter name="tts2" type="string"/>
+	<parameter name="time" type="float">0</parameter>
+</property>

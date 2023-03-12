@@ -1,0 +1,38 @@
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.AssemblyReference.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfoInputs.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfo.cs
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.CoreCompileInputs.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.AssemblyReference.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfoInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfo.cs
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.exe
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.deps.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.runtimeconfig.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.CopyComplete
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.genruntimeconfig.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\ref\CPM_UNIGINE_project_x64d.dll
