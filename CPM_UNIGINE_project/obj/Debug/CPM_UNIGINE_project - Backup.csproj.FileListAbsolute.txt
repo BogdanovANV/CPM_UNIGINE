@@ -36,3 +36,11 @@ C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.EntityFramework
 C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.CopyComplete
 C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.genruntimeconfig.cache
 C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\ref\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.AssemblyReference.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfoInputs.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.AssemblyInfo.cs
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project - Backup.csproj.CoreCompileInputs.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\obj\Debug\CPM_UNIGINE_project_x64d.pdb

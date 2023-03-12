@@ -1043,6 +1043,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="2050871882" name="Статус">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="8065ecc47d161153128fe69608436cfd29fd4a38">
+									<parameter name="rd1">479853010</parameter>
+									<parameter name="gr1">1866859401</parameter>
+									<parameter name="bl1">545146892</parameter>
+								</property>
+							</properties>
 							<transform>0.49253898859 0.000670170004014 0.0860513672233 0.0 0.000774485408328 -0.499998807907 -0.000538981519639 0.0 0.0860504880548 0.000664230377879 -0.492539167404 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
 							<node type="ObjectMeshStatic" id="479853010" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1118,6 +1125,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="1675248645" name="Статус_2">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="2d4fa32f3415f6c2bacfc739f6edc744f98b29d3">
+									<parameter name="rd2">1778745273</parameter>
+									<parameter name="gr2">1216256450</parameter>
+									<parameter name="bl2">1610454091</parameter>
+								</property>
+							</properties>
 							<transform>0.499998688697 0.000689655102804 0.00069156362864 0.0 0.000690609939303 0.000691697668675 -0.499998718563 0.0 -0.000690610114647 0.499998420538 0.00069074325461 0.0 -1.98951966013e-13 1.80801793093e-07 2.06813132001 1.0</transform>
 							<node type="ObjectMeshStatic" id="1778745273" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1164,6 +1178,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="1867936837" name="Статус_5">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="636a00749053314385d425c63f97c26deb4040e8">
+									<parameter name="rd3">821090503</parameter>
+									<parameter name="gr3">1517538721</parameter>
+									<parameter name="bl3">216237792</parameter>
+								</property>
+							</properties>
 							<transform>-0.00331981435045 0.499988347976 0.0006915200198 0.0 -0.000695364709255 0.000686917921923 -0.499998569548 0.0 -0.499987895864 -0.00332076676483 0.000690787064507 0.0 0 0 2.06813 1.0</transform>
 							<node type="ObjectMeshStatic" id="821090503" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1249,6 +1270,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="623051073" name="Статус">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="9f801266293a868dc9c8f688a125a847db53c8fa">
+									<parameter name="rd5">817190454</parameter>
+									<parameter name="gr5">1630941657</parameter>
+									<parameter name="bl5">575349287</parameter>
+								</property>
+							</properties>
 							<transform>0.492539048195 0.000670108536724 0.0860513225198 0.0 0.00077448587399 -0.499999076128 -0.000539339554962 0.0 0.0860504359007 0.000664582650643 -0.492539197206 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
 							<node type="ObjectMeshStatic" id="817190454" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1318,6 +1346,13 @@
 									<transform>1.8999994874 7.2605615901e-15 7.23653177992e-15 0.0 -7.26056271985e-15 0.00629816032686 1.89998971765 0.0 7.23653803414e-15 -1.89999006931 0.00629816088281 0.0 0 0.0298473211444 0.031619575644 1.0</transform>
 								</node>
 								<node type="NodeDummy" id="385615834" name="Статус_7">
+									<properties>
+										<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="81e7eab72899c8aa2acbe0018422b96ce39f65db">
+											<parameter name="rd6">373762022</parameter>
+											<parameter name="gr6">491883850</parameter>
+											<parameter name="bl6">65483823</parameter>
+										</property>
+									</properties>
 									<transform>0.0334692648242 -0.498878234696 0.000691580231982 0.0 0.000735567691301 -0.000643786132304 -0.499998569416 0.0 0.498877458048 0.0334701880368 0.000690822262774 0.0 0 0 2.06813 1.0</transform>
 									<node type="ObjectMeshStatic" id="373762022" name="Rd">
 										<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1435,6 +1470,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="1268321094" name="Статус_3">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="ceadf46de94ccae87ed5b1271ead7c5a0f941ff1">
+									<parameter name="rd7">661273051</parameter>
+									<parameter name="gr7">906038334</parameter>
+									<parameter name="bl7">393602264</parameter>
+								</property>
+							</properties>
 							<transform>-0.466332641862 -0.18037009423 0.000691579622198 0.0 -0.000395802857961 -0.0008937942152 -0.499998837631 0.0 0.180370844247 -0.466332167351 0.000690827898565 0.0 -1.98951966013e-13 1.80801793093e-07 2.06813132001 1.0</transform>
 							<node type="ObjectMeshStatic" id="661273051" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1503,6 +1545,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="1337657242" name="Статус">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="a08b4b09374858d48b33ee23405efd2612d4f24d">
+									<parameter name="rd9">199937694</parameter>
+									<parameter name="gr9">524093129</parameter>
+									<parameter name="bl9">1288517255</parameter>
+								</property>
+							</properties>
 							<transform>0.492538978582 0.000670260955103 0.0860513589995 0.0 0.000774685146051 -0.499998990733 -0.000539578440126 0.0 0.0860515363469 0.000664858565733 -0.492538976514 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
 							<node type="ObjectMeshStatic" id="199937694" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
@@ -1622,6 +1671,13 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="928059814" name="Статус_6">
+							<properties>
+								<property parent="e92aab82fce62899699581b5597abdda8175f2dd" guid="7070104e303cdb555a36f4b09be7804fec06f162">
+									<parameter name="rd4">295530333</parameter>
+									<parameter name="gr4">1000317747</parameter>
+									<parameter name="bl4">1314647565</parameter>
+								</property>
+							</properties>
 							<transform>0.148122871547 -0.477555415819 0.000691605520547 0.0 0.000864652777764 -0.00045592083653 -0.499998480041 0.0 0.477554503878 0.148123631831 0.000690773691392 0.0 0 0 2.06813 1.0</transform>
 							<node type="ObjectMeshStatic" id="295530333" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>

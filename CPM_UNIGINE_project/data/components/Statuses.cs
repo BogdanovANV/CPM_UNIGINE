@@ -35,8 +35,8 @@ public class Worker
 {
 
     public int id { get; set; }
-    public int sst { get; set; }
     public string name { get; set; }
+    public int sst { get; set; }
 
 }
 
@@ -189,45 +189,56 @@ public class Statuses : Component
 
                 foreach (Worker u in users)
                 {
+
+                    if (u.id == 1001)
+                    {
+                        sos1 = u.sst;
+                    }
+
+                    if (u.id == 1002)
+                    {
+                        sos2 = u.sst;
+                    }
+
+                    if (u.id == 1003)
+                    {
+                        sos3 = u.sst;
+                    }
+
+                    if (u.id == 1004)
+                    {
+                        sos4 = u.sst;
+                    }
+
+                    if (u.id == 1005)
+                    {
+                        sos5 = u.sst;
+                    }
+
+                    if (u.id == 1006)
+                    {
+                        sos6 = u.sst;
+                    }
+
+                    if (u.id == 1007)
+                    {
+                        sos7 = u.sst;
+                    }
+
                     if (u.id == 1008)
                     {
                         sos8 = u.sst;
                         
-                    }else if (u.id == 1001)
-                    {
-                        sos1 = u.sst;
                     }
-                    else if (u.id == 1002)
-                    {
-                        sos2 = u.sst;
-                    }
-                    else if (u.id == 1003)
-                    {
-                        sos3 = u.sst;
-                    }
-                    else if (u.id == 1004)
-                    {
-                        sos4 = u.sst;
-                    }
-                    else if (u.id == 1005)
-                    {
-                        sos5 = u.sst;
-                    }
-                    else if (u.id == 1006)
-                    {
-                        sos6 = u.sst;
-                    }
-                    else if (u.id == 1007)
-                    {
-                        sos7 = u.sst;
-                    }
-                    else if (u.id == 1009)
+
+                    if (u.id == 1009)
                     {
                         sos9 = u.sst;
 
                     }
                 }
             }
+            
             time = 0;
         }
 
@@ -249,6 +260,7 @@ public class Statuses : Component
             bl1.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr1.Position = locgr1;
         }
+
         if (sos2 == 1)
         {
 
@@ -268,6 +280,7 @@ public class Statuses : Component
             bl2.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr2.Position = locgr2;
         }
+
         if (sos3 == 1)
         {
 
@@ -287,6 +300,7 @@ public class Statuses : Component
             bl3.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr3.Position = locgr3;
         }
+
         if (sos4 == 1)
         {
 
@@ -306,6 +320,7 @@ public class Statuses : Component
             bl4.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr4.Position = locgr4;
         }
+
         if (sos5 == 1)
         {
 
@@ -325,6 +340,7 @@ public class Statuses : Component
             bl5.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr5.Position = locgr5;
         }
+        
         if (sos6 == 1)
         {
 
@@ -344,6 +360,7 @@ public class Statuses : Component
             bl6.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr6.Position = locgr6;
         }
+
         if (sos7 == 1)
         {
 
@@ -363,6 +380,7 @@ public class Statuses : Component
             bl7.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr7.Position = locgr7;
         }
+
         if (sos8 == 1)
         {
 
@@ -382,6 +400,7 @@ public class Statuses : Component
             bl8.Position = new Vec3(0.0f, 0.0f, -100.0f);
             gr8.Position = locgr8;
         }
+
         if (sos9 == 1)
         {
 

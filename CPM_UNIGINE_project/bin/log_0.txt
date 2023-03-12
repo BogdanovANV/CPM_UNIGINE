@@ -1,92 +1,136 @@
-19:25:09 
-19:25:09 ---- Engine ----
-19:25:09 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
-19:25:09 Binary: Windows 64-bit Visual C++ 1900 Debug
-19:25:09 Engine features: Direct3D11 OpenAL DoubleCoords HalfTexCoords Debug
-19:25:09 
-19:25:09 ---- Configs ----
-19:25:09 Loading boot config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.boot"...
-19:25:09 Loading user config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
-19:25:09 Using config file "configs/default.config"
-19:25:09 Using boot config file "configs/default.boot"
-19:25:09 Using user config file "configs/default.user"
-19:25:09 Using controls config file "configs/default.controls"
-19:25:09 ---- System ----
-19:25:09 OS:		Windows 10 (build 22621) 64-bit
-19:25:09 
-19:25:09 CPU:	AMD Ryzen 5 3600 6-Core Processor              
-19:25:09 		Frequency: 3593MHz
-19:25:09 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
-19:25:09 		Cores:6 Threads:12
-19:25:09 
-19:25:09 		System memory: 16335 MB
-19:25:09 		Sync threads:  11
-19:25:09 		Async threads: 6
-19:25:09 
-19:25:09 GPU:	GPU Unknown
-19:25:09 		Video memory:  0 MB
-19:25:09 
-19:25:09 
-19:25:09 ---- Application ----
-19:25:09 
-19:25:09 ---- System Proxy ----
-19:25:09 
-19:25:09 ---- Render ----
-19:25:09 NULL
-19:25:09 
-19:25:09 ---- Load cache textures ----
-19:25:09 Cache textures loaded 789 (46ms)
-19:25:09 
-19:25:09 Render initialization: 47ms
-19:25:09 
-19:25:09 
-19:25:09 ---- Filesystem ----
-19:25:09 App path:  C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
-19:25:09 Data path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/
-19:25:09 Save path: C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/bin/
-19:25:10 
-19:25:10 Runtimes loaded: 316 20ms
-19:25:10 Filesystem initialization: 122ms
-19:25:10 
-19:25:10 
-19:25:10 ---- Sound ----
-19:25:10 Sound: null
-19:25:10 Sound initialization: 0ms
-19:25:10 
-19:25:10 ---- Physics ----
-19:25:10 
-19:25:10 ---- PathFind ----
-19:25:10 
-19:25:10 Loading controls "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
-19:25:10 Loading config "C:/Users/Ilia/Desktop/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
-19:25:10 
-19:25:10 ---- Materials ----
-19:25:10 Engine base materials loaded: 174 / 174 (77ms)
-19:25:10 Engine materials loaded:      65 / 65 (10ms)
-19:25:10 User base materials loaded:   5 / 5 (24ms)
-19:25:10 User materials loaded:        1222 / 1222 (392ms)
-19:25:10 Total materials: 1466
-19:25:10 
-19:25:10 
-19:25:10 ---- Properties ----
-19:25:10 Properties loaded:            14 / 14 (4ms)
-19:25:10 
-19:25:10 Engine initialization: 2408ms
-19:25:10 
-19:25:10 
-19:25:10 
-19:25:10 ---- Plugins ----
-19:25:10 Plugins initialization: 0ms
-19:25:10 
-19:25:11 Total RAM:           18.5 MB
-19:25:11 - system RAM used:   11.5 MB
-19:25:11 - pool RAM reserved: 7.0 MB
-19:25:11 - pool RAM used:     2.3 MB
-19:25:11 Total allocs:        178290
-19:25:11 - system allocs:     39880
-19:25:11 - 16b pool allocs:   132473
-19:25:11 - 32b pool allocs:   2301
-19:25:11 - 64b pool allocs:   3636
+02:52:36 
+02:52:36 ---- Engine ----
+02:52:36 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+02:52:36 Binary: Windows 64-bit Visual C++ 1900 Debug
+02:52:36 Engine features: Direct3D11 OpenAL DoubleCoords HalfTexCoords Debug
+02:52:36 
+02:52:36 ---- Configs ----
+02:52:36 Loading boot config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.boot"...
+02:52:36 Loading user config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
+02:52:36 Using config file "configs/default.config"
+02:52:36 Using boot config file "configs/default.boot"
+02:52:36 Using user config file "configs/default.user"
+02:52:36 Using controls config file "configs/default.controls"
+02:52:36 
+02:52:36 ---- GPU Detection ----
+02:52:36 GPU 0: NVIDIA GeForce GTX 750 Ti 2007 MB (Active)
+02:52:36 GPU 1: Microsoft Basic Render Driver 8161 MB
+02:52:36 
+02:52:36 ---- System ----
+02:52:36 OS:		Windows 10 (build 19044) 64-bit
+02:52:36 
+02:52:36 CPU:	Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+02:52:36 		Frequency: 3392MHz
+02:52:36 		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+02:52:36 		Cores:4 Threads:4
+02:52:36 
+02:52:36 		System memory: 16322 MB
+02:52:36 		Sync threads:  3
+02:52:36 		Async threads: 4
+02:52:36 
+02:52:36 GPU:	NVIDIA GeForce GTX 750 Ti
+02:52:36 		Video memory:  2007 MB
+02:52:36 
+02:52:36 
+02:52:36 ---- Application ----
+02:52:36 
+02:52:36 ---- System Proxy ----
+02:52:36 
+02:52:36 ---- Render ----
+02:52:36 Loading "dxgi.dll"...
+02:52:36 Direct3D 11 initialization
+02:52:36 Renderer: NVidia 2007MB
+02:52:36 Renderer API: Direct3D 11.0
+02:52:36 Maximum texture size:    16384
+02:52:36 Maximum texture units:   16
+02:52:36 
+02:52:36 ---- Load cache textures ----
+02:52:36 Cache textures loaded 789 (172ms)
+02:52:36 
+02:52:36 Render initialization: 512ms
+02:52:36 
+02:52:36 
+02:52:36 ---- Filesystem ----
+02:52:36 App path:  C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+02:52:36 Data path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/
+02:52:36 Save path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+02:52:37 
+02:52:37 Runtimes loaded: 316 47ms
+02:52:37 Filesystem initialization: 248ms
+02:52:37 
+02:52:37 
+02:52:37 ---- Sound ----
+02:52:37 Loading "openal32.dll"...
+02:52:37 Renderer: OpenAL Soft on Динамики (Realtek High Definition Audio)
+02:52:37 OpenAL vendor:   OpenAL Community
+02:52:37 OpenAL renderer: OpenAL Soft
+02:52:37 OpenAL version:  1.1 ALSOFT 1.19.1
+02:52:37 Found AL_EXT_LINEAR_DISTANCE
+02:52:37 Found AL_EXT_OFFSET
+02:52:37 Found ALC_EXT_EFX
+02:52:37 Found ALC_SOFT_HRTF
+02:52:37 Found EFX Filter
+02:52:37 Found EFX Reverb
+02:52:37 Found EAX Reverb
+02:52:37 Found QUAD16 format
+02:52:37 Found 51CHN16 format
+02:52:37 Found 61CHN16 format
+02:52:37 Found 71CHN16 format
+02:52:37 Device enumeration supported
+02:52:37 Maximum sources:         256
+02:52:37 Maximum effect slots:    16
+02:52:37 Maximum auxiliary sends: 2
+02:52:37 Output sampling frequency: 48000hz
+02:52:37 HRTF not enabled!
+02:52:37 
+02:52:37 Sound: openal
+02:52:37 Sound initialization: 45ms
+02:52:37 
+02:52:37 ---- Physics ----
+02:52:37 
+02:52:37 ---- PathFind ----
+02:52:37 
+02:52:37 Loading controls "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
+02:52:37 Loading config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
+02:52:37 
+02:52:37 ---- Materials ----
+02:52:38 Engine base materials loaded: 174 / 174 (152ms)
+02:52:38 Engine materials loaded:      65 / 65 (21ms)
+02:52:38 User base materials loaded:   5 / 5 (31ms)
+02:52:38 User materials loaded:        1222 / 1222 (586ms)
+02:52:38 Total materials: 1466
+02:52:38 
+02:52:38 
+02:52:38 ---- Properties ----
+02:52:38 Properties loaded:            14 / 14 (8ms)
+02:52:38 
+02:52:38 Engine initialization: 2409ms
+02:52:38 
+02:52:38 
+02:52:38 
+02:52:38 ---- Plugins ----
+02:52:38 Plugins initialization: 0ms
+02:52:38 
+02:52:38 ---- Interpreter ----
+02:52:38 Version: 2.90
+02:52:38 
+02:52:38 Unigine~# world_load "CPM_UNIGINE_project"
+02:52:38 Script loading "core/unigine.usc" 15ms
+02:52:38 World loading "CPM_UNIGINE_project.world" 154ms
+02:52:38 
+02:52:38 ---- Load cache textures ----
+02:52:39 Cache textures loaded 789 (147ms)
+02:52:39 
+02:53:54 Close "openal32.dll"
+02:53:54 Total RAM:           25.2 MB
+02:53:54 - system RAM used:   15.7 MB
+02:53:54 - pool RAM reserved: 9.5 MB
+02:53:54 - pool RAM used:     3.3 MB
+02:53:54 Total allocs:        220489
+02:53:54 - system allocs:     41054
+02:53:54 - 16b pool allocs:   165413
+02:53:54 - 32b pool allocs:   4170
+02:53:54 - 64b pool allocs:   9852
 
 
 Shutdown

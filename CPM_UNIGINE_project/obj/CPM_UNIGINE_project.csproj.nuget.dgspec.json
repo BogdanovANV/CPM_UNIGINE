@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {}
+    "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {
+    "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
+        "projectUniqueName": "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
         "projectName": "CPM_UNIGINE_project_x64d",
-        "projectPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
-        "packagesPath": "C:\\Users\\Ilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\obj\\",
+        "projectPath": "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
+        "packagesPath": "C:\\Users\\Cesaress\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\CPM_UNIGINE_project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Cesaress\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
