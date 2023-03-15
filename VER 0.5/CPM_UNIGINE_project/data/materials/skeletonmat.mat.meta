@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>40064a7043595b0f26b78d221e4eaa19baa48ca4</guid>
+	<type>material</type>
+	<hash>152e56b</hash>
+	<runtimes>
+		<runtime id="40064a7043595b0f26b78d221e4eaa19baa48ca4" name="skeletonmat" link="0" type="5"/>
+	</runtimes>
+</asset>

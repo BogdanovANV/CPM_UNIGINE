@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>8be6dd2fecdfe8c2357d1139773689446c8903d3</guid>
+	<type>component</type>
+	<hash>facef57c</hash>
+	<runtimes>
+		<runtime id="8be6dd2fecdfe8c2357d1139773689446c8903d3" name="hideWallsRoof.cs" link="0"/>
+		<runtime id="cefd9fc567358e60b8416e3f6dd5a69234e894c9" name="hideWallsRoof.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node type="NodeDummy" id="130877694" name="skeleton">
+		<transform>1 2.64697796017e-22 -3.82137123179e-15 0.0 9.26442286059e-23 1 8.74227800037e-08 0.0 3.82137123179e-15 -8.74227800037e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="874366481" name="skeleton_root">
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="375888590" name="skeleton">
+				<mesh_name>guid://eb1ba3ae2c0b9735db71bf105be6072f41910ac2</mesh_name>
+				<surface name="skeletonMat" material="40064a7043595b0f26b78d221e4eaa19baa48ca4"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

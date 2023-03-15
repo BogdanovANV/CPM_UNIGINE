@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>cf53ed47602b49fa97855111f729d73c7a2cc96b</guid>
+	<type>fbx</type>
+	<hash>90495cd2</hash>
+	<runtimes>
+		<runtime id="cf53ed47602b49fa97855111f729d73c7a2cc96b" name="Building2.fbx" link="0"/>
+		<runtime id="3c005db2942aa1698229fbb4276e738386dc0306" name="Building2.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">12d26bcd</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0a657ead92f45028deaef5673827739a18892e31" name="Ворота 003.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">238d1d2</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a696d1dc4831438b206bc36ee783b3f50abfb4d0" name="Ворота 004.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d1449496</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d28601ef825946824fc153f984066d0425961493" name="Конструкции001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e9e80c0f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f39b90d6bbf0923de9dfae7846069f7700ed766a" name="Опоры001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6acd993b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="760632c1a7d16d2cdcdd069b296d0b3ee2813985" name="Рама ворот 003.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">654d5963</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d7e6dd20c762edff052fa3526deeea89ea647254" name="Рама ворот 004.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a5ffbeee</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="534a39a3ab15d2a630aec9cd0ebbe0c8cb110d87" name="Стены001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e6791e47</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a9df6d3a8cf69b51d1c01c7c36a5cdab287f870e" name="Крыша001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6559d0e2</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="int" name="front_axis">0</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="int" name="import_materials_mode">0</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://0a657ead92f45028deaef5673827739a18892e31&quot;:{&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a696d1dc4831438b206bc36ee783b3f50abfb4d0&quot;:{&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d28601ef825946824fc153f984066d0425961493&quot;:{&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a9df6d3a8cf69b51d1c01c7c36a5cdab287f870e&quot;:{&quot;Material #1514&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://f39b90d6bbf0923de9dfae7846069f7700ed766a&quot;:{&quot;Material #1511&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://760632c1a7d16d2cdcdd069b296d0b3ee2813985&quot;:{&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d7e6dd20c762edff052fa3526deeea89ea647254&quot;:{&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://534a39a3ab15d2a630aec9cd0ebbe0c8cb110d87&quot;:{&quot;Material #1513&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Material #1515&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;Material #1512&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">material #1511,59eb3db18e3e9b5c937f7f0bee99c8ee3f8afb75,material #1512,b22bc013790a46565860c9bdfd2f7ff8840d42f7,material #1513,c078610572b0dea045be017fa114a0d25710ca09,material #1514,844e91076be41aba35d46ad10930a5fc4ba5c92b,material #1515,c8142499fefac5245a3b4e3315953df6d8b91cdd,material #1515_1,bcc9743b70bc5c5e07fb18250b6aeb4063d8659f,material #1515_2,69047c6d81e1b2e83ad579271c5aa45ad74f27f1,material #1515_3,b53cfdaf83b28f420f0685b9a81c73c46a24ec53,03 - default slot #9,3db19c816b684beca906d65b7a1317fe62c45f45,03 - default slot #10,526e0163633d77666d16a78d2a1ca388c1537147,03 - default slot #9_1,4039f8d5e55274301499f9cf07001ce2750476d9,03 - default slot #10_1,3179935793cf18caad8db1a1da201e8c17e8487b,03 - default slot #9_2,3c46456912e94fb4f09db783375a7706b70962ad,03 - default slot #10_2,9b49078bf4b8b76e2ca417f5393cc8d0f8d805ef,03 - default slot #9_3,291d763d9bff42785a99237750f62a6a922f56c1,03 - default slot #10_3,1245f1ffaa4ed752533c8e8982adc6547a7b7da3,03 - default slot #9_4,dff8bf516733f07ca7ff91abd2267b0e41c8c715,03 - default slot #10_4,8e4e26b3614d3c76daf8095d18d77b185fc3c397,03 - default slot #9_5,e29794a5a7783dc0ade4961fcde1ecf2d8f267a9,03 - default slot #10_5,bae7b9a72f7aeada8e89bc71c18b8b1c3fae2bcb,03 - default slot #9_6,2613aa39a0d24e44d6f004d34126441670a72c7d,03 - default slot #10_6,cbb4fedb958e267e3a4b1bc5d58cda6086f84a3f,03 - default slot #9_7,15f4f40dc86186085b91f1c7a59c847af2144991,03 - default slot #10_7,bb288a4f66507362c10fdb59c7538ce46813f2f3</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="int" name="resolution">3</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="int" name="up_axis">0</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="int" name="workflow">0</parameter>
+	</parameters>
+</asset>

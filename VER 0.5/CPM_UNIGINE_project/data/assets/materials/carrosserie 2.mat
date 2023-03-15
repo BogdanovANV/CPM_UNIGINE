@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.1.0" guid="55ccd1109db1f12fb227ecc24fbd453975312d44" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<texture name="albedo">guid://7431a57c13ffc2ab2aaef80e57852015db06f270</texture>
+	<parameter name="albedo_color" expression="0">0.800000012 0.800000012 0.800000012 1</parameter>
+	<parameter name="uv_transform" expression="1">vec4(1.000000,1.000000,0.000000,-1.000000)</parameter>
+</material>

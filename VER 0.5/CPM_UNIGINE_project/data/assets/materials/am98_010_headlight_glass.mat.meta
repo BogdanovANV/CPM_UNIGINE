@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>f277d60231fb9d7967c52884047a9a135be75856</guid>
+	<type>material</type>
+	<hash>2c341d02</hash>
+	<runtimes>
+		<runtime id="f277d60231fb9d7967c52884047a9a135be75856" name="am98_010_headlight_glass" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>ced09a22e7c253198bda21a488ee00b316474e76</guid>
+	<type>material</type>
+	<hash>ea0c1ae</hash>
+	<runtimes>
+		<runtime id="ced09a22e7c253198bda21a488ee00b316474e76" name="am98_010_reflection_marking" link="0" type="5"/>
+	</runtimes>
+</asset>
