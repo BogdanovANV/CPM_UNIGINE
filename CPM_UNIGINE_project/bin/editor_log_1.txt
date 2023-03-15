@@ -1,277 +1,312 @@
-02:17:27 
-02:17:27 ---- Engine ----
-02:17:27 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
-02:17:27 Binary: Windows 64-bit Visual C++ 1900 Release
-02:17:27 Engine features: Direct3D11 OpenAL Microprofile DoubleCoords HalfTexCoords Development
-02:17:27 
-02:17:27 ---- Configs ----
-02:17:27 Loading boot config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/editor.boot"...
-02:17:27 Loading user config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
-02:17:27 Using config file "configs/default.config"
-02:17:27 Using boot config file "configs/editor.boot"
-02:17:27 Using user config file "configs/default.user"
-02:17:27 Using controls config file "configs/default.controls"
-02:17:27 
-02:17:27 ---- Engine Microprofile ----
-02:17:27 
-02:17:27 ---- GPU Detection ----
-02:17:27 GPU 0: NVIDIA GeForce GTX 750 Ti 2007 MB (Active)
-02:17:27 GPU 1: Microsoft Basic Render Driver 8161 MB
-02:17:27 
-02:17:27 ---- System ----
-02:17:27 OS:		Windows 10 (build 19044) 64-bit
-02:17:27 
-02:17:27 CPU:	Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
-02:17:27 		Frequency: 3392MHz
-02:17:27 		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
-02:17:27 		Cores:4 Threads:4
-02:17:27 
-02:17:27 		System memory: 16322 MB
-02:17:27 		Sync threads:  3
-02:17:27 		Async threads: 4
-02:17:27 
-02:17:27 GPU:	NVIDIA GeForce GTX 750 Ti
-02:17:27 		Video memory:  2007 MB
-02:17:27 
-02:17:27 
-02:17:27 ---- Application ----
-02:17:27 
-02:17:27 ---- System Proxy ----
-02:17:27 
-02:17:27 ---- Render ----
-02:17:27 Loading "dxgi.dll"...
-02:17:27 Direct3D 11 initialization
-02:17:27 Renderer: NVidia 2007MB
-02:17:27 Renderer API: Direct3D 11.0
-02:17:27 Maximum texture size:    16384
-02:17:27 Maximum texture units:   16
-02:17:27 
-02:17:27 ---- Load cache textures ----
-02:17:27 Cache textures loaded 789 (139ms)
-02:17:27 
-02:17:27 Render initialization: 438ms
-02:17:27 
-02:17:27 
-02:17:27 ---- Filesystem ----
-02:17:27 App path:  C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
-02:17:27 Data path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/
-02:17:27 Save path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
-02:17:27 
-02:17:27 Runtimes loaded: 316 38ms
-02:17:27 Filesystem initialization: 291ms
-02:17:27 
-02:17:27 
-02:17:27 ---- Sound ----
-02:17:27 Loading "openal32.dll"...
-02:17:27 Renderer: OpenAL Soft on Динамики (Realtek High Definition Audio)
-02:17:27 OpenAL vendor:   OpenAL Community
-02:17:27 OpenAL renderer: OpenAL Soft
-02:17:27 OpenAL version:  1.1 ALSOFT 1.19.1
-02:17:27 Found AL_EXT_LINEAR_DISTANCE
-02:17:27 Found AL_EXT_OFFSET
-02:17:27 Found ALC_EXT_EFX
-02:17:27 Found ALC_SOFT_HRTF
-02:17:27 Found EFX Filter
-02:17:27 Found EFX Reverb
-02:17:27 Found EAX Reverb
-02:17:27 Found QUAD16 format
-02:17:27 Found 51CHN16 format
-02:17:27 Found 61CHN16 format
-02:17:27 Found 71CHN16 format
-02:17:27 Device enumeration supported
-02:17:27 Maximum sources:         256
-02:17:27 Maximum effect slots:    16
-02:17:27 Maximum auxiliary sends: 2
-02:17:27 Output sampling frequency: 48000hz
-02:17:27 HRTF not enabled!
-02:17:27 
-02:17:27 Sound: openal
-02:17:27 Sound initialization: 36ms
-02:17:27 
-02:17:27 ---- Physics ----
-02:17:27 
-02:17:27 ---- PathFind ----
-02:17:27 
-02:17:27 Loading controls "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
-02:17:27 Loading config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
-02:17:28 
-02:17:28 ---- Materials ----
-02:17:28 Engine base materials loaded: 174 / 174 (150ms)
-02:17:28 Engine materials loaded:      65 / 65 (20ms)
-02:17:28 User base materials loaded:   5 / 5 (30ms)
-02:17:28 User materials loaded:        1222 / 1222 (538ms)
-02:17:28 Total materials: 1466
-02:17:28 
-02:17:30 
-02:17:30 ---- Properties ----
-02:17:30 Properties loaded:            14 / 14 (7ms)
-02:17:30 
-02:17:30 Engine initialization: 3483ms
-02:17:30 
-02:17:30 
-02:17:30 
-02:17:30 ---- Plugins ----
-02:17:30 Loading "FbxImporter_double_x64.dll"...
-02:17:30 Loading "GLTFImporter_double_x64.dll"...
-02:17:30 Loading "FbxExporter_double_x64.dll"...
-02:17:30 Plugins initialization: 4ms
-02:17:30 
-02:17:30 Script loading "editor2/editor.usc" 60ms
-02:17:30 ---- UnigineEditor ----
-02:17:30 Version: 2.16.1.0 ver-2.16.1.0-6698bfb Dec 15 2022
-02:17:30 Binary: Windows MSVC 19.0.24215.1 
-02:17:30 
-02:17:30 
-02:17:30 ---- UnigineEditor Material Editor ----
-02:17:30 UnigineEditor Material Editor initialization: 14ms
-02:17:30 
-02:17:30 
-02:17:30 ---- UnigineEditor Asset Manager ----
-02:17:31 Run migration 2.8.0.0
-02:17:31 Run migration 2.9.0.0
-02:17:31 Run migration 2.10.0.0
-02:17:31 Run migration 2.11.0.0
-02:17:32 Run migration 2.12.0.0
-02:17:32 Run migration 2.12.0.1
-02:17:32 Run migration 2.12.0.2
-02:17:32 Run migration 2.13.0.0
-02:17:32 Run migration 2.14.0.0
-02:17:32 Run migration 2.14.1.0
-02:17:32 Run migration 2.15.0.0
-02:17:32 Run migration 2.15.0.1
-02:17:32 Run migration 2.15.1.0
-02:17:32 Run migration 2.16.0.0
-02:17:32 Run migration 2.16.0.1
-02:17:32 Run migration 2.16.0.2
-02:17:32 Run migration 2.16.1.0
-02:17:32 Migration 436.670000 ms
-02:17:32 ERROR:	"ImportPropertyStage: Property import error. (filepath: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/visual.prop)"
-02:17:32 UnigineEditor Asset Manager initialization: 1663ms
-02:17:32 
-02:17:32 
-02:17:32 ---- UnigineEditor Auxiliary Systems ----
-02:17:32 ERROR:	Reflection::reflect(): can't reflect "Importer" name
-02:17:32 ERROR:	Reflection::reflect(): can't reflect "import" name
-02:17:33 [C# Component System] Available .NET SDKs: 6.0.401, 7.0.201
-02:17:33 [C# Component System] Required .NET SDK 6.0 found.
-02:17:33 [C# Component System] Initialized successfully.
-02:17:33 Run ' dotnet ' process with args:
-02:17:33  (build, -c, Debug, C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
-02:17:33 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
-02:17:34 ╨Ю╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨╡╨║╤В╨╛╨▓ ╨┤╨╗╤П ╨▓╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤П...
-02:17:34 ╨Т╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜ C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj (╨╖╨░ 127 ms).
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:37 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
-02:17:37 ╨Ю╤И╨╕╨▒╨╛╨║: 12
-02:17:37 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.38
-02:17:37 UnigineEditor Auxiliary Systems initialization: 4535ms
-02:17:37 
-02:17:37 
-02:17:37 ---- UnigineEditor GUI Components ----
-02:17:38 [Build Tool] Project file is found ( "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project.project" ).
-02:17:38 UnigineEditor GUI Components initialization: 1804ms
-02:17:38 
-02:17:38 
-02:17:38 ---- UnigineEditor Plugins ----
-02:17:38 Editor.PluginSystem: Plugin search paths:  QVector("C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/editor")
-02:17:38 UnigineEditor Plugins initialization: 0ms
-02:17:38 
-02:17:38 ---- Interpreter ----
-02:17:38 Version: 2.90
-02:17:38 
-02:17:38 Unigine~# config_autosave 1 && world_load "CPM_UNIGINE_project"
-02:17:38 Script loading "core/unigine.usc" 12ms
-02:17:39 World loading "CPM_UNIGINE_project.world" 148ms
-02:17:39 
-02:17:39 ---- Load cache textures ----
-02:17:39 Cache textures loaded 443 (115ms)
-02:17:39 
-02:17:41 Run migration 2.8.0.0
-02:17:41 Run migration 2.9.0.0
-02:17:41 Run migration 2.10.0.0
-02:17:41 Run migration 2.11.0.0
-02:17:41 Run migration 2.12.0.0
-02:17:41 Run migration 2.12.0.1
-02:17:41 Run migration 2.12.0.2
-02:17:41 Run migration 2.13.0.0
-02:17:41 Run migration 2.14.0.0
-02:17:41 Run migration 2.14.1.0
-02:17:41 Run migration 2.15.0.0
-02:17:41 Run migration 2.15.0.1
-02:17:41 Run migration 2.15.1.0
-02:17:41 Run migration 2.16.0.0
-02:17:41 Run migration 2.16.0.1
-02:17:41 Run migration 2.16.0.2
-02:17:41 Run migration 2.16.1.0
-02:17:41 Migration 421.360000 ms
-02:17:41 UnigineEditor initialization: 15297ms
-02:17:41 
-02:17:57 Run ' dotnet ' process with args:
-02:17:57  (build, -c, Debug, --no-restore, C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
-02:17:57 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
-02:17:58 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
-02:17:58 ╨Ю╤И╨╕╨▒╨╛╨║: 12
-02:17:58 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.89
-02:18:09 Close "openal32.dll"
-02:18:09 ERROR:	D3D11Ext::shutdown(): 29 unreleased references
-02:18:09 Total RAM:           47.1 MB
-02:18:09 - system RAM used:   32.1 MB
-02:18:09 - pool RAM reserved: 15.1 MB
-02:18:09 - pool RAM used:     4.3 MB
-02:18:09 Total allocs:        341592
-02:18:09 - system allocs:     162071
-02:18:09 - 16b pool allocs:   133236
-02:18:09 - 32b pool allocs:   17783
-02:18:09 - 64b pool allocs:   28502
+02:47:08 
+02:47:08 ---- Engine ----
+02:47:08 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+02:47:08 Binary: Windows 64-bit Visual C++ 1900 Release
+02:47:08 Engine features: Direct3D11 OpenAL Microprofile DoubleCoords HalfTexCoords Development
+02:47:08 
+02:47:08 ---- Configs ----
+02:47:08 Loading boot config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/editor.boot"...
+02:47:08 Loading user config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.user"...
+02:47:08 Using config file "configs/default.config"
+02:47:08 Using boot config file "configs/editor.boot"
+02:47:08 Using user config file "configs/default.user"
+02:47:08 Using controls config file "configs/default.controls"
+02:47:08 
+02:47:08 ---- Engine Microprofile ----
+02:47:08 
+02:47:08 ---- GPU Detection ----
+02:47:08 GPU 0: NVIDIA GeForce GTX 750 Ti 2007 MB (Active)
+02:47:08 GPU 1: Microsoft Basic Render Driver 8161 MB
+02:47:08 
+02:47:08 ---- System ----
+02:47:08 OS:		Windows 10 (build 19044) 64-bit
+02:47:08 
+02:47:08 CPU:	Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+02:47:08 		Frequency: 3392MHz
+02:47:08 		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+02:47:08 		Cores:4 Threads:4
+02:47:08 
+02:47:08 		System memory: 16322 MB
+02:47:08 		Sync threads:  3
+02:47:08 		Async threads: 4
+02:47:08 
+02:47:08 GPU:	NVIDIA GeForce GTX 750 Ti
+02:47:08 		Video memory:  2007 MB
+02:47:08 
+02:47:08 
+02:47:08 ---- Application ----
+02:47:08 
+02:47:08 ---- System Proxy ----
+02:47:08 
+02:47:08 ---- Render ----
+02:47:08 Loading "dxgi.dll"...
+02:47:08 Direct3D 11 initialization
+02:47:08 Renderer: NVidia 2007MB
+02:47:08 Renderer API: Direct3D 11.0
+02:47:08 Maximum texture size:    16384
+02:47:08 Maximum texture units:   16
+02:47:09 
+02:47:09 ---- Load cache textures ----
+02:47:09 Cache textures loaded 789 (173ms)
+02:47:09 
+02:47:09 Render initialization: 477ms
+02:47:09 
+02:47:09 
+02:47:09 ---- Filesystem ----
+02:47:09 App path:  C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+02:47:09 Data path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/
+02:47:09 Save path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/
+02:47:09 
+02:47:09 Runtimes loaded: 316 51ms
+02:47:09 Filesystem initialization: 412ms
+02:47:09 
+02:47:09 
+02:47:09 ---- Sound ----
+02:47:09 Loading "openal32.dll"...
+02:47:09 Renderer: OpenAL Soft on Динамики (Realtek High Definition Audio)
+02:47:09 OpenAL vendor:   OpenAL Community
+02:47:09 OpenAL renderer: OpenAL Soft
+02:47:09 OpenAL version:  1.1 ALSOFT 1.19.1
+02:47:09 Found AL_EXT_LINEAR_DISTANCE
+02:47:09 Found AL_EXT_OFFSET
+02:47:09 Found ALC_EXT_EFX
+02:47:09 Found ALC_SOFT_HRTF
+02:47:09 Found EFX Filter
+02:47:09 Found EFX Reverb
+02:47:09 Found EAX Reverb
+02:47:09 Found QUAD16 format
+02:47:09 Found 51CHN16 format
+02:47:09 Found 61CHN16 format
+02:47:09 Found 71CHN16 format
+02:47:09 Device enumeration supported
+02:47:09 Maximum sources:         256
+02:47:09 Maximum effect slots:    16
+02:47:09 Maximum auxiliary sends: 2
+02:47:09 Output sampling frequency: 48000hz
+02:47:09 HRTF not enabled!
+02:47:09 
+02:47:09 Sound: openal
+02:47:09 Sound initialization: 34ms
+02:47:09 
+02:47:09 ---- Physics ----
+02:47:09 
+02:47:09 ---- PathFind ----
+02:47:09 
+02:47:09 Loading controls "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.controls"...
+02:47:09 Loading config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/configs/default.config"...
+02:47:09 
+02:47:09 ---- Materials ----
+02:47:10 Engine base materials loaded: 174 / 174 (148ms)
+02:47:10 Engine materials loaded:      65 / 65 (20ms)
+02:47:10 User base materials loaded:   5 / 5 (30ms)
+02:47:10 User materials loaded:        1222 / 1222 (530ms)
+02:47:10 Total materials: 1466
+02:47:10 
+02:47:12 
+02:47:12 ---- Properties ----
+02:47:12 Properties loaded:            14 / 14 (7ms)
+02:47:12 
+02:47:12 Engine initialization: 3700ms
+02:47:12 
+02:47:12 
+02:47:12 
+02:47:12 ---- Plugins ----
+02:47:12 Loading "FbxImporter_double_x64.dll"...
+02:47:12 Loading "GLTFImporter_double_x64.dll"...
+02:47:12 Loading "FbxExporter_double_x64.dll"...
+02:47:12 Plugins initialization: 6ms
+02:47:12 
+02:47:12 Script loading "editor2/editor.usc" 63ms
+02:47:12 ---- UnigineEditor ----
+02:47:12 Version: 2.16.1.0 ver-2.16.1.0-6698bfb Dec 15 2022
+02:47:12 Binary: Windows MSVC 19.0.24215.1 
+02:47:12 
+02:47:12 
+02:47:12 ---- UnigineEditor Material Editor ----
+02:47:12 UnigineEditor Material Editor initialization: 13ms
+02:47:12 
+02:47:12 
+02:47:12 ---- UnigineEditor Asset Manager ----
+02:47:13 Run migration 2.8.0.0
+02:47:13 Run migration 2.9.0.0
+02:47:13 Run migration 2.10.0.0
+02:47:13 Run migration 2.11.0.0
+02:47:13 Run migration 2.12.0.0
+02:47:13 Run migration 2.12.0.1
+02:47:13 Run migration 2.12.0.2
+02:47:13 Run migration 2.13.0.0
+02:47:13 Run migration 2.14.0.0
+02:47:13 Run migration 2.14.1.0
+02:47:13 Run migration 2.15.0.0
+02:47:13 Run migration 2.15.0.1
+02:47:14 Run migration 2.15.1.0
+02:47:14 Run migration 2.16.0.0
+02:47:14 Run migration 2.16.0.1
+02:47:14 Run migration 2.16.0.2
+02:47:14 Run migration 2.16.1.0
+02:47:14 Migration 413.854000 ms
+02:47:14 ERROR:	"ImportPropertyStage: Property import error. (filepath: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/data/visual.prop)"
+02:47:14 UnigineEditor Asset Manager initialization: 1714ms
+02:47:14 
+02:47:14 
+02:47:14 ---- UnigineEditor Auxiliary Systems ----
+02:47:14 ERROR:	Reflection::reflect(): can't reflect "Importer" name
+02:47:14 ERROR:	Reflection::reflect(): can't reflect "import" name
+02:47:14 [C# Component System] Available .NET SDKs: 6.0.401, 7.0.201
+02:47:14 [C# Component System] Required .NET SDK 6.0 found.
+02:47:14 [C# Component System] Initialized successfully.
+02:47:14 Run ' dotnet ' process with args:
+02:47:14  (build, -c, Debug, C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+02:47:15 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+02:47:16 ╨Ю╨┐╤А╨╡╨┤╨╡╨╗╨╡╨╜╨╕╨╡ ╨┐╤А╨╛╨╡╨║╤В╨╛╨▓ ╨┤╨╗╤П ╨▓╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜╨╕╤П...
+02:47:16 ╨Т╨╛╤Б╤Б╤В╨░╨╜╨╛╨▓╨╗╨╡╨╜ C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj (╨╖╨░ 165 ms).
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:47:19 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+02:47:19 ╨Ю╤И╨╕╨▒╨╛╨║: 12
+02:47:19 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:04.25
+02:47:19 UnigineEditor Auxiliary Systems initialization: 5245ms
+02:47:19 
+02:47:19 
+02:47:19 ---- UnigineEditor GUI Components ----
+02:47:21 [Build Tool] Project file is found ( "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project.project" ).
+02:47:21 UnigineEditor GUI Components initialization: 1921ms
+02:47:21 
+02:47:21 
+02:47:21 ---- UnigineEditor Plugins ----
+02:47:21 Editor.PluginSystem: Plugin search paths:  QVector("C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/bin/editor")
+02:47:21 UnigineEditor Plugins initialization: 0ms
+02:47:21 
+02:47:21 ---- Interpreter ----
+02:47:21 Version: 2.90
+02:47:21 
+02:47:21 Unigine~# config_autosave 1 && world_load "CPM_UNIGINE_project"
+02:47:21 Script loading "core/unigine.usc" 23ms
+02:47:21 World loading "CPM_UNIGINE_project.world" 148ms
+02:47:21 
+02:47:21 ---- Load cache textures ----
+02:47:22 Cache textures loaded 443 (112ms)
+02:47:22 
+02:47:23 Run migration 2.8.0.0
+02:47:23 Run migration 2.9.0.0
+02:47:23 Run migration 2.10.0.0
+02:47:23 Run migration 2.11.0.0
+02:47:23 Run migration 2.12.0.0
+02:47:23 Run migration 2.12.0.1
+02:47:23 Run migration 2.12.0.2
+02:47:23 Run migration 2.13.0.0
+02:47:23 Run migration 2.14.0.0
+02:47:23 Run migration 2.14.1.0
+02:47:24 Run migration 2.15.0.0
+02:47:24 Run migration 2.15.0.1
+02:47:24 Run migration 2.15.1.0
+02:47:24 Run migration 2.16.0.0
+02:47:24 Run migration 2.16.0.1
+02:47:24 Run migration 2.16.0.2
+02:47:24 Run migration 2.16.1.0
+02:47:24 Migration 441.884000 ms
+02:47:24 UnigineEditor initialization: 16892ms
+02:47:24 
+02:48:28 Unigine~# world_save
+02:48:28 Saving "CPM_UNIGINE_project.world"
+02:48:28 Run ' dotnet ' process with args:
+02:48:28  (build, -c, Debug, --no-restore, C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+02:48:29 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:48:30 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+02:48:30 ╨Ю╤И╨╕╨▒╨╛╨║: 12
+02:48:30 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.00
+02:52:27 Unigine~# world_save
+02:52:27 Saving "CPM_UNIGINE_project.world"
+02:57:19 Run ' dotnet ' process with args:
+02:57:19  (build, -c, Debug, --no-restore, C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/CPM_UNIGINE_project/CPM_UNIGINE_project - Backup.csproj)
+02:57:19 MSBuild version 17.5.0-preview-23061-01+040e2a90e for .NET
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\source\AppSystemLogic.cs(1,17): error CS0234: ╨в╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "EntityFrameworkCore" ╨╜╨╡ ╤Б╤Г╤Й╨╡╤Б╤В╨▓╤Г╨╡╤В ╨▓ ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨╡ ╨╕╨╝╨╡╨╜ "Microsoft" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(21,30): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(23,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\Statuses.cs(28,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(10,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(12,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(18,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(33,29): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContext" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(35,12): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbSet<>" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ERROR:	C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\data\components\GUI.cs(41,43): error CS0246: ╨Э╨╡ ╤Г╨┤╨░╨╗╨╛╤Б╤М ╨╜╨░╨╣╤В╨╕ ╤В╨╕╨┐ ╨╕╨╗╨╕ ╨╕╨╝╤П ╨┐╤А╨╛╤Б╤В╤А╨░╨╜╤Б╤В╨▓╨░ ╨╕╨╝╨╡╨╜ "DbContextOptionsBuilder" (╨▓╨╛╨╖╨╝╨╛╨╢╨╜╨╛, ╨╛╤В╤Б╤Г╤В╤Б╤В╨▓╤Г╨╡╤В ╨┤╨╕╤А╨╡╨║╤В╨╕╨▓╨░ using ╨╕╨╗╨╕ ╤Б╤Б╤Л╨╗╨║╨░ ╨╜╨░ ╤Б╨▒╨╛╤А╨║╤Г). [C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\CPM_UNIGINE_project\CPM_UNIGINE_project - Backup.csproj]
+02:57:20 ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
+02:57:20 ╨Ю╤И╨╕╨▒╨╛╨║: 12
+02:57:20 ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.89
+03:00:35 Close "openal32.dll"
+03:00:35 ERROR:	D3D11Ext::shutdown(): 29 unreleased references
+03:00:35 Total RAM:           48.4 MB
+03:00:35 - system RAM used:   32.1 MB
+03:00:35 - pool RAM reserved: 16.3 MB
+03:00:35 - pool RAM used:     4.4 MB
+03:00:35 Total allocs:        343523
+03:00:35 - system allocs:     162243
+03:00:35 - 16b pool allocs:   133285
+03:00:35 - 32b pool allocs:   18395
+03:00:35 - 64b pool allocs:   29600
 
 
 Shutdown

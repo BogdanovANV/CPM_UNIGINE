@@ -193,45 +193,29 @@ public class Statuses : Component
                     if (u.id == 1001)
                     {
                         sos1 = u.sst;
-                    }
-
-                    if (u.id == 1002)
+                    }else if (u.id == 1002)
                     {
                         sos2 = u.sst;
-                    }
-
-                    if (u.id == 1003)
+                    }else if (u.id == 1003)
                     {
                         sos3 = u.sst;
-                    }
-
-                    if (u.id == 1004)
+                    }else if (u.id == 1004)
                     {
                         sos4 = u.sst;
-                    }
-
-                    if (u.id == 1005)
+                    }else if (u.id == 1005)
                     {
                         sos5 = u.sst;
-                    }
-
-                    if (u.id == 1006)
+                    }else if (u.id == 1006)
                     {
                         sos6 = u.sst;
-                    }
-
-                    if (u.id == 1007)
+                    }else if(u.id == 1007)
                     {
                         sos7 = u.sst;
-                    }
-
-                    if (u.id == 1008)
+                    }else if (u.id == 1008)
                     {
                         sos8 = u.sst;
                         
-                    }
-
-                    if (u.id == 1009)
+                    }else if (u.id == 1009)
                     {
                         sos9 = u.sst;
 
