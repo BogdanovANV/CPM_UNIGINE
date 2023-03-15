@@ -52,6 +52,30 @@ public class str2
 
 }
 
+public class GetEqpData : DbContext
+{
+    public DbSet<eqp> table_equipment { get; set; }
+   
+    public GetEqpData()
+    {
+        Database.EnsureCreated();
+    }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=13092001");
+    }
+}
+public class eqp
+{
+
+    public int id { get; set; }
+    public int sst { get; set; }
+	public string name { get; set; }
+    public string model { get; set; }
+    public TimeSpan working_time { get; set; }
+
+}
+
 public class GUI : Component
 {
 	private WidgetWindow window;
@@ -59,12 +83,15 @@ public class GUI : Component
     private WidgetButton button_1;
     private WidgetEditLine editLine_0;
     private WidgetButton button_2;
+     private WidgetComboBox comboBox;
+     private WidgetWindow window_info;
 
     private WidgetDialogMessage dialog_message;
-
+    private WidgetDialogMessage dialog_mess;
 	
 	public string tts;
     public string tts2;
+    public string eqpstr;
     public float time = 0;
 	private void Init()
 	{
@@ -111,8 +138,32 @@ public class GUI : Component
         button_2.Height = 30; button_2.Width = 30; button_2.SetPosition(editLine_0.Width + 5, 0);
         window.AddChild(button_2, Gui.ALIGN_OVERLAP | Gui.ALIGN_TOP);
 
+        
+
         window.Arrange();
         Gui.GetCurrent().AddChild(window, Gui.ALIGN_OVERLAP | Gui.ALIGN_RIGHT | Gui.ALIGN_TOP);
+
+
+         window_info = new WidgetWindow("Элементы", 160, 80);
+
+        comboBox = new WidgetComboBox();
+        comboBox.Width = 40; comboBox.Height = 40;
+
+        comboBox.AddItem("Выбрать элемент", 0);
+        comboBox.AddItem("1258	Кран мостовой", 1);
+        comboBox.AddItem("1259	Кран мостовой", 2);
+        comboBox.AddItem("1260	Кран мостовой", 3);
+        comboBox.AddItem("3250	Машина плазменной резки", 4);
+        comboBox.AddItem("4376	Линия первичной обработки металла", 5);
+        comboBox.AddItem("9567	Многовалковая листоправильная машина", 6);
+        comboBox.AddItem("9568	Многовалковая листоправильная машина", 7);
+        
+        comboBox.AddCallback(Gui.CALLBACK_INDEX.CHANGED, () => combo_message(0));
+
+        window_info.AddChild(comboBox, Gui.ALIGN_OVERLAP);
+        window_info.Arrange();
+        Gui.GetCurrent().AddChild(window_info, Gui.ALIGN_OVERLAP | Gui.ALIGN_RIGHT | Gui.ALIGN_BOTTOM);
+
 	}
 	
 	private void Update()
@@ -179,4 +230,137 @@ public class GUI : Component
         dialog_message.MessageText = message;
         dialog_show(dialog_message, 0);
     }
+    private void combo_message(int num)
+    {	num = comboBox.CurrentItem;
+        if (num == 1)
+        {   using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 1258)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+        if (num == 2)
+        {   using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 1259)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+        if (num == 3)
+        {   
+            using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 1260)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+        if (num == 4)
+        {   
+            using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 3250)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+    
+    if (num == 5)
+        {   
+            using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 4376)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+            
+        }
+    
+    if (num == 6)
+        {   
+            using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 9567)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+    
+    if (num == 7)
+        {   
+            using (GetEqpData db = new GetEqpData())
+            {
+                
+                var eqptt = db.table_equipment.ToList();
+
+                foreach (eqp u in eqptt)
+                {
+                    if (u.id == 9568)
+                    eqpstr =u.id + "\n"+ u.name + " \n " + u.model + "\n" + u.working_time;
+                    
+                }
+            }
+            dialog_mess = new WidgetDialogMessage(Gui.GetCurrent(), "Информация");
+            dialog_mess.MessageText = eqpstr;
+            dialog_show(dialog_mess, 0);
+        }
+    
+    }
+    
 }

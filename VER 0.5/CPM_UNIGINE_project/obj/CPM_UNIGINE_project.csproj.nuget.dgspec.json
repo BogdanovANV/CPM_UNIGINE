@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {}
+    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {
+    "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
+        "projectUniqueName": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
         "projectName": "CPM_UNIGINE_project_x64d",
-        "projectPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
+        "projectPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
         "packagesPath": "C:\\Users\\Ilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\obj\\",
+        "outputPath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
