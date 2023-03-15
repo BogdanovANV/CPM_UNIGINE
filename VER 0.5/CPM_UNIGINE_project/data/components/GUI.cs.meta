@@ -2,7 +2,7 @@
 <asset version="2.16.1.0">
 	<guid>3757a7f55fbb18d0112215efd43e4a821bfa87f9</guid>
 	<type>component</type>
-	<hash>937e367f</hash>
+	<hash>5142e3b</hash>
 	<runtimes>
 		<runtime id="3757a7f55fbb18d0112215efd43e4a821bfa87f9" name="GUI.cs" link="0"/>
 		<runtime id="e2fcc783f68e4706618af2ad401334283c188967" name="GetStor1Data.prop" link="1" type="4"/>

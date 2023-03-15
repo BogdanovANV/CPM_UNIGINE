@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0gVk0y4JDy6VZ2SuE+3MgRAeSXT10hgS7iiD5XMI0uhLKqCMV/39WMRv1Y2997zC4suBrtcXb+tMu2skfQaKg==",
+  "dgSpecHash": "nkoLy1xMLC+KNjNmHBpfx8CivWT6r0Bj0MsA86kT77vQqIMQZxi/XsPbPc0dY1l/WglClBS+xsxd+OncrEIuGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
+  "projectFilePath": "C:\\Users\\Ilia\\Desktop\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ilia\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Ilia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
