@@ -2,7 +2,7 @@
 <asset version="2.16.1.0">
 	<guid>d54d1f79deb4c28490016c13ab6c0256343f55bd</guid>
 	<type>component</type>
-	<hash>22ebf09e</hash>
+	<hash>5c47b035</hash>
 	<runtimes>
 		<runtime id="d54d1f79deb4c28490016c13ab6c0256343f55bd" name="Crane2.cs" link="0"/>
 		<runtime id="1b6624e7ede1dd1ae68989b13090775ceb4fab0b" name="eqp_check2.prop" link="1" type="4"/>

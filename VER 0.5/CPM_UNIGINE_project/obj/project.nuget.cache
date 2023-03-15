@@ -1,25 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BfA6rj0XqYMEdEb+kIE7KcLOHID7KQ+JG4xxrHvyjT1N2DmnVFGPWXEbJCvrJUUrG6mGQf3RZ7DbVUf3ClBFBA==",
+  "dgSpecHash": "qRp63mACZzYNlN7/+TvGYXHJX4+h4hpCYoDtKQr4JP9IlJSnxOSVnhnYx6DKt4QwomG8io/DK17RnlHA+IpTmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.3\\microsoft.entityframeworkcore.relational.7.0.3.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.3\\npgsql.entityframeworkcore.postgresql.7.0.3.nupkg.sha512",
-    "C:\\Users\\Cesaress\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Cesaress\\Desktop\\Repository\\CPM_UNIGINE\\VER 0.5\\CPM_UNIGINE_project\\CPM_UNIGINE_project - Backup.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
