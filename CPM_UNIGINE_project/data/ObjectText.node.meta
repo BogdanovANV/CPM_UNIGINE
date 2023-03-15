@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>b233db625f0c235959d334e41d7f7af388a003b6</guid>
-	<type>node</type>
-	<hash>08315215</hash>
-	<runtimes>
-		<runtime id="b233db625f0c235959d334e41d7f7af388a003b6" name="ObjectText.node" link="0" type="3"/>
-	</runtimes>
-</asset>

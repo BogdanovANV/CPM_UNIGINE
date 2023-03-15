@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>7923f2cc6beb8fbb9becc1de6b613fa5a6d7ecc0</guid>
-	<type>material</type>
-	<hash>9db8b372</hash>
-	<runtimes>
-		<runtime id="7923f2cc6beb8fbb9becc1de6b613fa5a6d7ecc0" name="pneu" link="0" type="5"/>
-	</runtimes>
-</asset>

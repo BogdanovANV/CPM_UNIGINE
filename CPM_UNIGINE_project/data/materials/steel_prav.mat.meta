@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>19d45dff579253521f11da8944caa254519aa9a3</guid>
-	<type>material</type>
-	<hash>06307c34</hash>
-	<runtimes>
-		<runtime id="19d45dff579253521f11da8944caa254519aa9a3" name="steel_prav" link="0" type="5"/>
-	</runtimes>
-</asset>

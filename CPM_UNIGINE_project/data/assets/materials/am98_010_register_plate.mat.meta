@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>b1f3af3679e45d1d81f63bd8c9e00d570f9f4aca</guid>
-	<type>material</type>
-	<hash>400964d5</hash>
-	<runtimes>
-		<runtime id="b1f3af3679e45d1d81f63bd8c9e00d570f9f4aca" name="am98_010_register_plate" link="0" type="5"/>
-	</runtimes>
-</asset>

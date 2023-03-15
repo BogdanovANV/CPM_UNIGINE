@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<material version="2.16.1.0" guid="b10cd6864aa53c2dbd31efa824dd0ee7a427bf1a" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
-	<parameter name="diffuse_color" expression="0">0.121568635 0.121568635 0.121568635 1</parameter>
-</material>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<property version="2.16.1.0" name="visual" guid="22a7074b4225342e839aedb5dcb02390189c21af" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
-	<parameter name="state" type="toggle">0</parameter>
-	<parameter name="loc" type="dvec3">0 0 0</parameter>
-</property>

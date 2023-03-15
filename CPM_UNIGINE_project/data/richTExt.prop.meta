@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>b487a299530c2b2483c17c3325b993f68ad57add</guid>
-	<type>property</type>
-	<hash>0be08fc5</hash>
-	<runtimes>
-		<runtime id="b487a299530c2b2483c17c3325b993f68ad57add" name="richTExt" link="0" type="4"/>
-	</runtimes>
-</asset>

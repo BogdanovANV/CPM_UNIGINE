@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>545c722e811d13b54d701190892f37af741b8142</guid>
-	<type>material</type>
-	<hash>4e2af2e8</hash>
-	<runtimes>
-		<runtime id="545c722e811d13b54d701190892f37af741b8142" name="am98_010_white_light" link="0" type="5"/>
-	</runtimes>
-</asset>

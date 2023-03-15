@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<asset version="2.16.1.0">
-	<guid>475470997f86a12416fd7a3354f979f6dcb828dd</guid>
-	<type>material</type>
-	<hash>2b35e77b</hash>
-	<runtimes>
-		<runtime id="475470997f86a12416fd7a3354f979f6dcb828dd" name="rust" link="0" type="5"/>
-	</runtimes>
-</asset>
