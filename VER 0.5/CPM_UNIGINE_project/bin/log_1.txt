@@ -1,92 +1,92 @@
-15:22:55 
-15:22:55 ---- Engine ----
-15:22:55 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
-15:22:55 Binary: Windows 64-bit Visual C++ 1900 Debug
-15:22:55 Engine features: Direct3D11 OpenAL DoubleCoords HalfTexCoords Debug
-15:22:55 
-15:22:55 ---- Configs ----
-15:22:55 Loading boot config "C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.boot"...
-15:22:55 Loading user config "C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.user"...
-15:22:55 Using config file "configs/default.config"
-15:22:55 Using boot config file "configs/default.boot"
-15:22:55 Using user config file "configs/default.user"
-15:22:55 Using controls config file "configs/default.controls"
-15:22:55 ---- System ----
-15:22:55 OS:		Windows 10 (build 22621) 64-bit
-15:22:55 
-15:22:55 CPU:	AMD Ryzen 5 3600 6-Core Processor              
-15:22:55 		Frequency: 3593MHz
-15:22:55 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
-15:22:55 		Cores:6 Threads:12
-15:22:55 
-15:22:55 		System memory: 16335 MB
-15:22:55 		Sync threads:  11
-15:22:55 		Async threads: 6
-15:22:55 
-15:22:55 GPU:	GPU Unknown
-15:22:55 		Video memory:  0 MB
-15:22:55 
-15:22:55 
-15:22:55 ---- Application ----
-15:22:55 
-15:22:55 ---- System Proxy ----
-15:22:55 
-15:22:55 ---- Render ----
-15:22:55 NULL
-15:22:55 
-15:22:55 ---- Load cache textures ----
-15:22:55 Cache textures loaded 789 (48ms)
-15:22:55 
-15:22:55 Render initialization: 49ms
-15:22:55 
-15:22:55 
-15:22:55 ---- Filesystem ----
-15:22:55 App path:  C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/bin/
-15:22:55 Data path: C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/
-15:22:55 Save path: C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/bin/
-15:22:55 
-15:22:55 Runtimes loaded: 316 20ms
-15:22:55 Filesystem initialization: 121ms
-15:22:55 
-15:22:55 
-15:22:55 ---- Sound ----
-15:22:55 Sound: null
-15:22:55 Sound initialization: 0ms
-15:22:55 
-15:22:55 ---- Physics ----
-15:22:55 
-15:22:55 ---- PathFind ----
-15:22:55 
-15:22:55 Loading controls "C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.controls"...
-15:22:55 Loading config "C:/Users/Ilia/Desktop/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.config"...
-15:22:56 
-15:22:56 ---- Materials ----
-15:22:56 Engine base materials loaded: 174 / 174 (76ms)
-15:22:56 Engine materials loaded:      65 / 65 (9ms)
-15:22:56 User base materials loaded:   5 / 5 (23ms)
-15:22:56 User materials loaded:        1222 / 1222 (377ms)
-15:22:56 Total materials: 1466
-15:22:56 
-15:22:56 
-15:22:56 ---- Properties ----
-15:22:56 Properties loaded:            14 / 14 (4ms)
-15:22:56 
-15:22:56 Engine initialization: 1014ms
-15:22:56 
-15:22:56 
-15:22:56 
-15:22:56 ---- Plugins ----
-15:22:56 Plugins initialization: 0ms
-15:22:56 
-15:22:56 Total RAM:           18.5 MB
-15:22:56 - system RAM used:   11.5 MB
-15:22:56 - pool RAM reserved: 7.0 MB
-15:22:56 - pool RAM used:     2.3 MB
-15:22:56 Total allocs:        178299
-15:22:56 - system allocs:     39882
-15:22:56 - 16b pool allocs:   132477
-15:22:56 - 32b pool allocs:   2304
-15:22:56 - 64b pool allocs:   3636
+19:56:27 
+19:56:27 ---- Engine ----
+19:56:27 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+19:56:27 Binary: Windows 64-bit Visual C++ 1900 Debug
+19:56:27 Engine features: Direct3D11 OpenAL DoubleCoords HalfTexCoords Debug
+19:56:27 
+19:56:27 ---- Configs ----
+19:56:27 Loading boot config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.boot"...
+19:56:27 Loading user config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.user"...
+19:56:27 Using config file "configs/default.config"
+19:56:27 Using boot config file "configs/default.boot"
+19:56:27 Using user config file "configs/default.user"
+19:56:27 Using controls config file "configs/default.controls"
+19:56:27 ---- System ----
+19:56:27 OS:		Windows 10 (build 19044) 64-bit
+19:56:27 
+19:56:27 CPU:	Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+19:56:27 		Frequency: 3392MHz
+19:56:27 		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+19:56:27 		Cores:4 Threads:4
+19:56:27 
+19:56:27 		System memory: 16322 MB
+19:56:27 		Sync threads:  3
+19:56:27 		Async threads: 4
+19:56:27 
+19:56:27 GPU:	GPU Unknown
+19:56:27 		Video memory:  0 MB
+19:56:27 
+19:56:27 
+19:56:27 ---- Application ----
+19:56:27 
+19:56:27 ---- System Proxy ----
+19:56:27 
+19:56:27 ---- Render ----
+19:56:27 NULL
+19:56:27 
+19:56:27 ---- Load cache textures ----
+19:56:27 Cache textures loaded 789 (94ms)
+19:56:27 
+19:56:27 Render initialization: 95ms
+19:56:27 
+19:56:27 
+19:56:27 ---- Filesystem ----
+19:56:27 App path:  C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/bin/
+19:56:27 Data path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/
+19:56:27 Save path: C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/bin/
+19:56:27 
+19:56:27 Runtimes loaded: 319 41ms
+19:56:27 Filesystem initialization: 204ms
+19:56:27 
+19:56:27 
+19:56:27 ---- Sound ----
+19:56:27 Sound: null
+19:56:27 Sound initialization: 0ms
+19:56:27 
+19:56:27 ---- Physics ----
+19:56:27 
+19:56:27 ---- PathFind ----
+19:56:27 
+19:56:27 Loading controls "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.controls"...
+19:56:27 Loading config "C:/Users/Cesaress/Desktop/Repository/CPM_UNIGINE/VER 0.5/CPM_UNIGINE_project/data/configs/default.config"...
+19:56:27 
+19:56:27 ---- Materials ----
+19:56:28 Engine base materials loaded: 174 / 174 (155ms)
+19:56:28 Engine materials loaded:      65 / 65 (20ms)
+19:56:28 User base materials loaded:   5 / 5 (31ms)
+19:56:28 User materials loaded:        1222 / 1222 (580ms)
+19:56:28 Total materials: 1466
+19:56:28 
+19:56:28 
+19:56:28 ---- Properties ----
+19:56:28 Properties loaded:            20 / 20 (9ms)
+19:56:28 
+19:56:28 Engine initialization: 1653ms
+19:56:28 
+19:56:28 
+19:56:28 
+19:56:28 ---- Plugins ----
+19:56:28 Plugins initialization: 0ms
+19:56:28 
+19:56:29 Total RAM:           18.5 MB
+19:56:29 - system RAM used:   11.5 MB
+19:56:29 - pool RAM reserved: 7.0 MB
+19:56:29 - pool RAM used:     2.3 MB
+19:56:29 Total allocs:        178479
+19:56:29 - system allocs:     39942
+19:56:29 - 16b pool allocs:   132540
+19:56:29 - 32b pool allocs:   2346
+19:56:29 - 64b pool allocs:   3651
 
 
 Shutdown

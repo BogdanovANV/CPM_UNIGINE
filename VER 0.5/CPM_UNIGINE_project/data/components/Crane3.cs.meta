@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>21929e6ad4593ac14f38d52cb88d4e9b9610b33e</guid>
+	<type>component</type>
+	<hash>000e30fd</hash>
+	<runtimes>
+		<runtime id="21929e6ad4593ac14f38d52cb88d4e9b9610b33e" name="Crane3.cs" link="0"/>
+		<runtime id="8f8f9cd00f84c9efa6f96e82e3d35bf90020d504" name="eqp_check3.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
