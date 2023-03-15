@@ -994,35 +994,58 @@
 			</node>
 			<node type="NodeDummy" id="1325475759" name="Оборудование">
 				<transform>1.0000000596 6.93770541857e-23 3.82137011532e-15 0.0 2.64697698714e-22 1.0000000596 -8.74227727842e-08 0.0 -3.82137011532e-15 8.74227727842e-08 1 0.0 0 0 0 1.0</transform>
-				<node type="ObjectMeshStatic" id="53055960" name="1 Кран мостовой_1">
-					<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
-					<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-					<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-					<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-					<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-					<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
-					<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
-					<transform>-0.984824894959 -0.173460195868 5.07003927148e-05 0.0 4.21175234446e-05 5.3106970409e-05 0.999985516071 0.0 -0.173461268751 0.984830855423 -4.51798832373e-05 0.0 44.8755210089 7.58873994124 13.1796953706 1.0</transform>
-					<node type="ObjectMeshStatic" id="865417183" name="Платформа">
-						<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
-						<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-						<transform>1 -1.89459935658e-16 -4.33571264859e-09 0.0 1.89527989462e-16 1 -3.79070404953e-16 0.0 4.33571262369e-09 3.79072998992e-16 1 0.0 -0.273233737256 1.54991858202e-08 0.90104749956 1.0</transform>
-						<node type="ObjectMeshStatic" id="1137170103" name="Поворотный механизм">
-							<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
-							<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+				<node type="NodeDummy" id="434145864" name="1 Кран мостовой_1">
+					<transform>0.9999999404 8.49882415652e-34 -1.36094283369e-26 0.0 4.57737500214e-34 0.9999999404 3.68988727649e-19 0.0 -1.71577257117e-27 -1.86744306217e-20 1 0.0 -52.5834457447 -5.11423232119e-06 -2.23537919245e-13 1.0</transform>
+					<node type="ObjectMeshStatic" id="53055960" name="1 Кран мостовой_1">
+						<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
+						<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+						<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+						<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+						<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+						<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+						<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
+						<properties>
+							<property parent="10594942516edd79a207ce0608ccfce0ee83853b" guid="11bbf5d508ba4d307255fecf308a5de2ffefc3d9"/>
+						</properties>
+						<transform>-0.984825490096 -0.173460295613 5.07004218186e-05 0.0 4.21175259548e-05 5.31069735742e-05 0.99998551607 0.0 -0.17346127909 0.98483091412 -4.51798795993e-05 0.0 88.7760837962 7.58874550776 13.1796953706 1.0</transform>
+						<node type="ObjectMeshStatic" id="865417183" name="Платформа">
+							<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
 							<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-							<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-							<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-							<transform>-0.984840340178 -1.81102580836e-07 -0.173463265155 0.0 -1.65937939968e-07 1 -1.01924771069e-07 0.0 0.173463265155 -7.15954893325e-08 -0.984840340178 0.0 0.0340248375157 1.6799999621 0.0111445068968 1.0</transform>
-							<node type="ObjectMeshStatic" id="1157842836" name="Лебедка">
-								<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
-								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-								<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-								<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+							<transform>1.00000036514 -8.35059960362e-13 -1.13412636281e-08 0.0 0 1 -6.77626357803e-21 0.0 -3.28305586299e-18 0 1 0.0 0.428298000025 -0.000215504360284 -3.08189357517 1.0</transform>
+							<node type="ObjectMeshStatic" id="1137170103" name="Поворотный механизм">
+								<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
 								<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-								<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+								<transform>-0.245181369055 1.39725700137e-05 0.96947184954 0.0 9.19499203315e-05 0.999999936142 9.053750171e-06 0.0 -0.969482403529 9.13632543782e-05 -0.245181270846 0.0 0.0340248293109 1.6799999621 0.0111445068401 1.0</transform>
+								<node type="ObjectMeshStatic" id="1157842836" name="Лебедка">
+									<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
+									<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+									<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+									<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+									<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+									<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+									<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+									<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								</node>
+							</node>
+						</node>
+						<node type="NodeDummy" id="1014686021" name="КранТекст_2">
+							<properties>
+								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="07cae444c353a2d361294a16db327a7d7101f9b8"/>
+								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="25fff1b7bf9c23aaa92c7f01f564cc6cd28c5cdb"/>
+							</properties>
+							<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
+							<node type="ObjectText" id="1139934612" name="ObjectText_1">
+								<font_name>core/gui/font.ttf</font_name>
+								<text>&lt;center&gt;&lt;b&gt;Кран мостовой&lt;/b&gt;&lt;/center&gt;</text>
+								<font_rich>1</font_rich>
+								<font_size>200</font_size>
+								<font_outline>1</font_outline>
+								<text_wrap_width>7.5</text_wrap_width>
+								<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
+								<transform>-0.999997401683 -5.58832967078e-09 1.81100638059e-06 0.0 1.82419635093e-06 -1.31195843581e-07 0.999997854234 0.0 -2.62613479774e-08 0.999998770798 -5.21631364633e-08 0.0 3.75140493588 -6.96717453508e-07 0.567006464016 1.0</transform>
 							</node>
 						</node>
 						<node type="NodeDummy" id="156803325" name="PivotТекста_5">
@@ -1030,7 +1053,7 @@
 								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="7f7371c3d0aa6c464f1056ed400acb68a72eb7a7"/>
 								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="4649d0da9caf6a717ac9611c311609cb774754ae"/>
 							</properties>
-							<transform>0.984855376423 -4.26599049973e-05 0.173464341979 0.0 0.173465451611 -5.33839482809e-05 -0.984849531153 0.0 5.12828717269e-05 1.00001376423 -4.51737932462e-05 0.0 -1.47955352808 -3.22628755213 -6.01848986005 1.0</transform>
+							<transform>0.984855615312 -4.26599064792e-05 0.17346433935 0.0 0.173465493687 -5.33839485419e-05 -0.984849531616 0.0 5.12828841662e-05 1.00001376423 -4.51737933831e-05 0.0 -1.75278762422 -3.22628753663 -5.11744235654 1.0</transform>
 							<node type="ObjectText" id="1047255063" name="ObjectText_1">
 								<font_name>core/gui/font.ttf</font_name>
 								<text>&lt;center&gt;Иван Смирнов&lt;br&gt;Оператор крана&lt;/center&gt; &lt;sub&gt;Табельный номер: 1001 &lt;br&gt;  Смена: 1&lt;br&gt; &lt;/sub&gt;
@@ -1043,7 +1066,7 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="2050871882" name="Статус">
-							<transform>0.49253898859 0.000670170004014 0.0860513672233 0.0 0.000774485408328 -0.499998807907 -0.000538981519639 0.0 0.0860504880548 0.000664230377879 -0.492539167404 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
+							<transform>0.492539108061 0.000670170003273 0.0860513659087 0.0 0.000774485596189 -0.499998807907 -0.000538981521706 0.0 0.0860505089274 0.00066423037775 -0.492539167634 0.0 -1.75596963111 -2.57621577245 -5.10207427555 1.0</transform>
 							<node type="ObjectMeshStatic" id="479853010" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
 								<surface name="sphere" material="36f5c5ec47d2085b6250a1fe2ce061456a5261e0"/>
@@ -1059,23 +1082,6 @@
 								<surface name="sphere" material="7f38832805778c67db811e9ad138dd311e3cb4dc"/>
 								<transform>0.499998986721 0.000690132263117 -0.000691088789608 0.0 0.000690133019816 0.000692247995175 0.499998778105 0.0 0.000691087800078 -0.499999016523 0.000691294437274 0.0 0 -4.30211422042e-16 0 1.0</transform>
 							</node>
-						</node>
-					</node>
-					<node type="NodeDummy" id="1014686021" name="КранТекст_2">
-						<properties>
-							<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="07cae444c353a2d361294a16db327a7d7101f9b8"/>
-							<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="25fff1b7bf9c23aaa92c7f01f564cc6cd28c5cdb"/>
-						</properties>
-						<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
-						<node type="ObjectText" id="1139934612" name="ObjectText_1">
-							<font_name>core/gui/font.ttf</font_name>
-							<text>&lt;center&gt;&lt;b&gt;Кран перегружающий&lt;/b&gt;&lt;/center&gt;</text>
-							<font_rich>1</font_rich>
-							<font_size>200</font_size>
-							<font_outline>1</font_outline>
-							<text_wrap_width>7.5</text_wrap_width>
-							<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
-							<transform>-0.999997377394 -5.58841055952e-09 1.81100649167e-06 0.0 1.81100846426e-06 -1.71696812258e-08 0.999998033046 0.0 -5.58826525794e-09 0.999998927116 1.36378315053e-07 0.0 3.66562438036 -6.81293734317e-07 0.567006449738 1.0</transform>
 						</node>
 					</node>
 				</node>
@@ -1200,35 +1206,58 @@
 						</node>
 					</node>
 				</node>
-				<node type="ObjectMeshStatic" id="72087395" name="3 Кран мостовой_2">
-					<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
-					<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-					<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-					<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-					<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-					<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
-					<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
-					<transform>0.984824596935 0.173460195868 5.06258832664e-05 0.0 -4.20504718532e-05 -5.31041800791e-05 0.99998563528 0.0 0.173461268751 -0.984830795819 -4.50052602441e-05 0.0 -22.2468201193 -7.57477814166 13.1796953706 1.0</transform>
-					<node type="ObjectMeshStatic" id="1633442177" name="Платформа">
-						<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
-						<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-						<transform>1 -1.89459935658e-16 -4.33571264859e-09 0.0 1.89527989462e-16 1 -3.79070404953e-16 0.0 4.33571262369e-09 3.79072998992e-16 1 0.0 -0.273233737256 1.54991858202e-08 0.90104749956 1.0</transform>
-						<node type="ObjectMeshStatic" id="930262309" name="Поворотный механизм">
-							<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
-							<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+				<node type="NodeDummy" id="369480426" name="3 Кран мостовой_2">
+					<transform>0.9999999404 8.49882415652e-34 -1.36094283369e-26 0.0 4.57737500214e-34 0.9999999404 3.68988727649e-19 0.0 -1.71577257113e-27 -1.86744306222e-20 1 0.0 -52.5834457447 -5.11423232119e-06 -2.23537919245e-13 1.0</transform>
+					<node type="ObjectMeshStatic" id="72087395" name="3 Кран мостовой_2">
+						<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
+						<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+						<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+						<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+						<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+						<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+						<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
+						<properties>
+							<property parent="fcf2c7d6969e55051b39283ecf61bfd1401e57e9" guid="cc3be01258828049414d8d143a891563ea957b66"/>
+						</properties>
+						<transform>0.984824655631 0.1734601317 5.06184326854e-05 0.0 -4.20504743594e-05 -5.30976639853e-05 0.99998563528 0.0 0.173461219485 -0.984830854515 -4.49996686703e-05 0.0 19.1585315293 -7.57477347889 13.1796953706 1.0</transform>
+						<node type="ObjectMeshStatic" id="1633442177" name="Платформа">
+							<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
 							<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-							<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-							<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-							<transform>-0.984840340178 -1.81102580836e-07 -0.173463265155 0.0 -1.65937939968e-07 1 -1.01924771069e-07 0.0 0.173463265155 -7.15954893325e-08 -0.984840340178 0.0 0.0340248375157 1.6799999621 0.0111445068968 1.0</transform>
-							<node type="ObjectMeshStatic" id="648193555" name="Лебедка">
-								<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
-								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-								<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-								<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+							<transform>0.999999992245 2.37394338128e-12 4.40262280835e-08 0.0 6.46210274595e-10 1 -3.66885233871e-09 0.0 -5.87018183378e-08 3.72785059035e-09 0.999999989661 0.0 -0.589979153587 9.69828632765e-05 2.69936641705 1.0</transform>
+							<node type="ObjectMeshStatic" id="930262309" name="Поворотный механизм">
+								<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
 								<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-								<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+								<transform>-0.581363342108 -5.00372329802e-05 -0.81363899198 0.0 -1.7669994076e-05 0.999999819874 -4.89792951939e-05 0.0 0.813648858528 -1.38286053901e-05 -0.581363258955 0.0 0.0340248375157 1.6799999621 0.0111445068968 1.0</transform>
+								<node type="ObjectMeshStatic" id="648193555" name="Лебедка">
+									<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
+									<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+									<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+									<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+									<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+									<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+									<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+									<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								</node>
+							</node>
+						</node>
+						<node type="NodeDummy" id="1067537330" name="КранТекст_2">
+							<properties>
+								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="c4c0b9e12b4109cc4d8fbabbad64f0dec835a2a5"/>
+								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="a812f3c02043d41f9d6c12f2241a55a9ed67a2f4"/>
+							</properties>
+							<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
+							<node type="ObjectText" id="1801932406" name="ObjectText_1">
+								<font_name>core/gui/font.ttf</font_name>
+								<text>&lt;center&gt;&lt;b&gt;Кран мостовой&lt;/b&gt;&lt;/center&gt;</text>
+								<font_rich>1</font_rich>
+								<font_size>200</font_size>
+								<font_outline>1</font_outline>
+								<text_wrap_width>7.5</text_wrap_width>
+								<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
+								<transform>-0.999997377394 -5.58841055952e-09 1.81100649167e-06 0.0 1.81100846426e-06 -1.71696812258e-08 0.999998033046 0.0 -5.58826525794e-09 0.999998927116 1.36378315053e-07 0.0 3.66562438036 -6.81293734317e-07 0.567006449738 1.0</transform>
 							</node>
 						</node>
 						<node type="NodeDummy" id="947719860" name="PivotТекста_5">
@@ -1236,7 +1265,7 @@
 								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="d6f6c67cdc286fab6eadc10ef08b55154675a370"/>
 								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="a576e00fe2354e2297977719ea04f5a41592c4b3"/>
 							</properties>
-							<transform>0.984855376423 -4.26599049973e-05 0.173464341979 0.0 0.173465451611 -5.33839482809e-05 -0.984849531153 0.0 5.12828717269e-05 1.00001376423 -4.51737932462e-05 0.0 -1.47955352808 -3.22628755213 -6.01848986005 1.0</transform>
+							<transform>0.984855371332 -4.26595797003e-05 0.173464370886 0.0 0.173465450714 -5.33857860409e-05 -0.984849526061 0.0 5.12831945714e-05 1.00001376423 -4.51756261924e-05 0.0 -1.75278725873 -3.22628754787 -5.117442398 1.0</transform>
 							<node type="ObjectText" id="1581175517" name="ObjectText_1">
 								<font_name>core/gui/font.ttf</font_name>
 								<text>&lt;center&gt;Вячеслав Тихомиров&lt;br&gt;Оператор крана&lt;/center&gt; &lt;sub&gt;Табельный номер: 1005 &lt;br&gt;  Смена: 1&lt;br&gt; &lt;/sub&gt;
@@ -1249,7 +1278,7 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="623051073" name="Статус">
-							<transform>0.492539048195 0.000670108536724 0.0860513225198 0.0 0.00077448587399 -0.499999076128 -0.000539339554962 0.0 0.0860504359007 0.000664582650643 -0.492539197206 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
+							<transform>0.492539045649 0.000670108698102 0.0860513369752 0.0 0.000774485708434 -0.499999076129 -0.000539338615018 0.0 0.0860504354559 0.000664581731548 -0.492539194681 0.0 -1.75596926463 -2.57621578366 -5.1020743183 1.0</transform>
 							<node type="ObjectMeshStatic" id="817190454" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
 								<surface name="sphere" material="36f5c5ec47d2085b6250a1fe2ce061456a5261e0"/>
@@ -1265,23 +1294,6 @@
 								<surface name="sphere" material="7f38832805778c67db811e9ad138dd311e3cb4dc"/>
 								<transform>0.499998986721 0.000690132263117 -0.000691088789608 0.0 0.000690133019816 0.000692247995175 0.499998778105 0.0 0.000691087800078 -0.499999016523 0.000691294437274 0.0 0 -4.30211422042e-16 0 1.0</transform>
 							</node>
-						</node>
-					</node>
-					<node type="NodeDummy" id="1067537330" name="КранТекст_2">
-						<properties>
-							<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="c4c0b9e12b4109cc4d8fbabbad64f0dec835a2a5"/>
-							<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="a812f3c02043d41f9d6c12f2241a55a9ed67a2f4"/>
-						</properties>
-						<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
-						<node type="ObjectText" id="1801932406" name="ObjectText_1">
-							<font_name>core/gui/font.ttf</font_name>
-							<text>&lt;center&gt;&lt;b&gt;Кран перегружающий&lt;/b&gt;&lt;/center&gt;</text>
-							<font_rich>1</font_rich>
-							<font_size>200</font_size>
-							<font_outline>1</font_outline>
-							<text_wrap_width>7.5</text_wrap_width>
-							<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
-							<transform>-0.999997377394 -5.58841055952e-09 1.81100649167e-06 0.0 1.81100846426e-06 -1.71696812258e-08 0.999998033046 0.0 -5.58826525794e-09 0.999998927116 1.36378315053e-07 0.0 3.66562438036 -6.81293734317e-07 0.567006449738 1.0</transform>
 						</node>
 					</node>
 				</node>
@@ -1454,35 +1466,58 @@
 						</node>
 					</node>
 				</node>
-				<node type="ObjectMeshStatic" id="598080333" name="6 Кран мостовой_3">
-					<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
-					<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-					<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-					<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-					<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-					<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
-					<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
-					<transform>0.98482465654 0.173460270373 5.06631398096e-05 0.0 -4.20579260722e-05 -5.3293242211e-05 0.999985694885 0.0 0.173461373059 -0.984830795819 -4.51896621249e-05 0.0 44.8755210089 -7.57477814166 13.1796953706 1.0</transform>
-					<node type="ObjectMeshStatic" id="1621196988" name="Платформа">
-						<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
-						<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-						<transform>1 -1.89459935658e-16 -4.33571264859e-09 0.0 1.89527989462e-16 1 -3.79070404953e-16 0.0 4.33571262369e-09 3.79072998992e-16 1 0.0 -0.273233737256 1.54991858202e-08 0.90104749956 1.0</transform>
-						<node type="ObjectMeshStatic" id="769076958" name="Поворотный механизм">
-							<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
-							<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+				<node type="NodeDummy" id="1163360831" name="6 Кран мостовой_3">
+					<transform>0.9999999404 8.49882415652e-34 -1.36094283369e-26 0.0 4.57737500214e-34 0.9999999404 3.68988727649e-19 0.0 -1.71577257117e-27 -1.86744306217e-20 1 0.0 -2.5834487247 -5.11423231941e-06 -2.23537919246e-13 1.0</transform>
+					<node type="ObjectMeshStatic" id="598080333" name="6 Кран мостовой_3">
+						<mesh_name>guid://706f809feeded572feed3629fc1009745957a643</mesh_name>
+						<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+						<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+						<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+						<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+						<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+						<surface name="322" material="ef513e0ad14115e1ee6db5cccf5c76bb33b27cde"/>
+						<properties>
+							<property parent="4922560b90aa1651dd96f0bb73071708c548ab04" guid="44a56bba26eb87d151eb1efc1a53ee2b45ca2d8e"/>
+						</properties>
+						<transform>0.984824655631 0.173460221107 5.06556855906e-05 0.0 -4.20579249409e-05 -5.32857911678e-05 0.99998563528 0.0 0.173461308892 -0.984830854515 -4.51831392285e-05 0.0 48.913248184 -7.57477347889 13.1796953706 1.0</transform>
+						<node type="ObjectMeshStatic" id="1621196988" name="Платформа">
+							<mesh_name>guid://2b4cdfdded1d5f9850db5e17ef4ee48a23f98a61</mesh_name>
 							<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-							<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-							<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-							<transform>-0.984840340178 -1.81102580836e-07 -0.173463265155 0.0 -1.65937939968e-07 1 -1.01924771069e-07 0.0 0.173463265155 -7.15954893325e-08 -0.984840340178 0.0 0.0340248375157 1.6799999621 0.0111445068968 1.0</transform>
-							<node type="ObjectMeshStatic" id="270287053" name="Лебедка">
-								<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
-								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
-								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
-								<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
-								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
-								<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+							<transform>1 -1.89459935658e-16 -4.33571264859e-09 0.0 1.89527989462e-16 1 -3.79070404953e-16 0.0 4.33571262369e-09 3.79072998992e-16 1 0.0 -0.273233737256 1.54991858202e-08 0.90104749956 1.0</transform>
+							<node type="ObjectMeshStatic" id="769076958" name="Поворотный механизм">
+								<mesh_name>guid://2e1570a21e3837999961bc2456dfd9330c524cf6</mesh_name>
 								<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
-								<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+								<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+								<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+								<transform>-0.984840340178 -1.81102580836e-07 -0.173463265155 0.0 -1.65937939968e-07 1 -1.01924771069e-07 0.0 0.173463265155 -7.15954893325e-08 -0.984840340178 0.0 0.0340248375157 1.6799999621 0.0111445068968 1.0</transform>
+								<node type="ObjectMeshStatic" id="270287053" name="Лебедка">
+									<mesh_name>guid://00b6a04cb0ff5f3b461b4b5e08073b254cfab240</mesh_name>
+									<surface name="316" material="29aaf59e7468606526011680cbf417df2e1e03b2"/>
+									<surface name="317" material="947d46288aa7736743f9d99a7cdc5c31612427dc"/>
+									<surface name="320" material="0bbdd8a6a19b17cd8fcfd6c853188b87dc74d33a"/>
+									<surface name="319" material="c70c432cca1de49bbc2c513e621bc785c5541320"/>
+									<surface name="321" material="eeac0f706b425c0f1cf29a226b7c5319584c21a4"/>
+									<surface name="318" material="9e786c82dc7a41f9963e830491333293f28a16d6"/>
+									<transform>-0.984840340178 -1.65937939968e-07 0.173463265155 0.0 -1.81102580836e-07 1 -7.15954893325e-08 0.0 -0.173463265155 -1.01924771069e-07 -0.984840340178 0.0 0.06644835897 -1.67999995481 -0.0453109009899 1.0</transform>
+								</node>
+							</node>
+						</node>
+						<node type="NodeDummy" id="2046077145" name="КранТекст_2">
+							<properties>
+								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="6669fe217c4b010c88d4c8fb97d42a1e97eb0ae5"/>
+								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="aa12bf00fe7ca65f12544032012c21e930f08234"/>
+							</properties>
+							<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
+							<node type="ObjectText" id="1713696776" name="ObjectText_1">
+								<font_name>core/gui/font.ttf</font_name>
+								<text>&lt;center&gt;&lt;b&gt;Кран мостовой&lt;/b&gt;&lt;/center&gt;</text>
+								<font_rich>1</font_rich>
+								<font_size>200</font_size>
+								<font_outline>1</font_outline>
+								<text_wrap_width>7.5</text_wrap_width>
+								<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
+								<transform>-0.999997260771 -5.58840211561e-09 1.78992446901e-06 0.0 1.78192727809e-06 -4.52869239976e-09 0.999997913838 0.0 3.41031992074e-08 0.999998816564 1.23492327649e-07 0.0 3.83015698109 -7.24652714723e-07 0.567006483441 1.0</transform>
 							</node>
 						</node>
 						<node type="NodeDummy" id="245001560" name="PivotТекста_5">
@@ -1490,7 +1525,7 @@
 								<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="12311e2ead71cfb5aca59d9060af53af2cc4ed42"/>
 								<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="24694bb96f0481c45781a2532ecc4396996225fd"/>
 							</properties>
-							<transform>0.98485537897 -4.26599049326e-05 0.173464342428 0.0 0.173465481864 -5.33839472328e-05 -0.984849474093 0.0 5.12749480415e-05 1.00001370463 -4.51749368503e-05 0.0 -1.47955352808 -3.22628755213 -6.01848986005 1.0</transform>
+							<transform>0.984855379722 -4.26599049327e-05 0.173464338158 0.0 0.173465477594 -5.33839472332e-05 -0.984849474845 0.0 5.12749478458e-05 1.00001370463 -4.5174937073e-05 0.0 -1.75278729143 -3.22628753663 -5.11744235408 1.0</transform>
 							<node type="ObjectText" id="790802645" name="ObjectText_1">
 								<font_name>core/gui/font.ttf</font_name>
 								<text>&lt;center&gt;Илья Цветков&lt;br&gt;Оператор крана&lt;/center&gt; &lt;sub&gt;Табельный номер: 1009 &lt;br&gt;  Статус: На месте &lt;br&gt;  Смена: 1&lt;br&gt; &lt;/sub&gt;
@@ -1503,7 +1538,7 @@
 							</node>
 						</node>
 						<node type="NodeDummy" id="1337657242" name="Статус">
-							<transform>0.492538978582 0.000670260955103 0.0860513589995 0.0 0.000774685146051 -0.499998990733 -0.000539578440126 0.0 0.0860515363469 0.000664858565733 -0.492538976514 0.0 -1.4827355342 -2.57621578795 -6.00312177907 1.0</transform>
+							<transform>0.492538978955 0.000670260955103 0.086051356864 0.0 0.000774685143711 -0.499998990733 -0.000539578443485 0.0 0.0860515342114 0.000664858565733 -0.492538976887 0.0 -1.75596929748 -2.57621577245 -5.10207427308 1.0</transform>
 							<node type="ObjectMeshStatic" id="199937694" name="Rd">
 								<mesh_name>guid://a523d7d6fb262d3d9e5a8d782c1df277162ead6a</mesh_name>
 								<surface name="sphere" material="36f5c5ec47d2085b6250a1fe2ce061456a5261e0"/>
@@ -1519,23 +1554,6 @@
 								<surface name="sphere" material="7f38832805778c67db811e9ad138dd311e3cb4dc"/>
 								<transform>0.499998986721 0.000690132263117 -0.000691088789608 0.0 0.000690133019816 0.000692247995175 0.499998778105 0.0 0.000691087800078 -0.499999016523 0.000691294437274 0.0 0 -4.30211422042e-16 0 1.0</transform>
 							</node>
-						</node>
-					</node>
-					<node type="NodeDummy" id="2046077145" name="КранТекст_2">
-						<properties>
-							<property parent="f2eafd0ce95c94fb8601861ebee0b6e553147b00" guid="6669fe217c4b010c88d4c8fb97d42a1e97eb0ae5"/>
-							<property parent="22a7074b4225342e839aedb5dcb02390189c21af" guid="aa12bf00fe7ca65f12544032012c21e930f08234"/>
-						</properties>
-						<transform>0.984855612524 -4.22625273012e-05 0.17346437609 0.0 0.173465485742 -5.33579854699e-05 -0.984849767234 0.0 5.08870133803e-05 1.00001400267 -4.52171544696e-05 0.0 0.260984723757 3.71935618126 0.505956831086 1.0</transform>
-						<node type="ObjectText" id="1713696776" name="ObjectText_1">
-							<font_name>core/gui/font.ttf</font_name>
-							<text>&lt;center&gt;&lt;b&gt;Кран перегружающий&lt;/b&gt;&lt;/center&gt;</text>
-							<font_rich>1</font_rich>
-							<font_size>200</font_size>
-							<font_outline>1</font_outline>
-							<text_wrap_width>7.5</text_wrap_width>
-							<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
-							<transform>-0.999997377394 -5.58841055952e-09 1.81100649167e-06 0.0 1.81100846426e-06 -1.71696812258e-08 0.999998033046 0.0 -5.58826525794e-09 0.999998927116 1.36378315053e-07 0.0 3.66562438036 -6.81293734317e-07 0.567006449738 1.0</transform>
 						</node>
 					</node>
 				</node>

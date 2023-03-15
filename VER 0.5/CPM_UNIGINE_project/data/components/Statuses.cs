@@ -234,171 +234,171 @@ public class Statuses : Component
         if (sos1 == 1)
         {
 
-            bl1.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr1.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd1.Position = locrd1;
         }else if (sos1 == 2)
         {
-            rd1.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr1.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl1.Position = locbl1;
         }
         else if (sos1 == 3)
         {
-            rd1.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl1.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl1.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr1.Position = locgr1;
         }
         if (sos2 == 1)
         {
 
-            bl2.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr2.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd2.Position = locrd2;
         }
         else if (sos2 == 2)
         {
-            rd2.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr2.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl2.Position = locbl2;
         }
         else if (sos2 == 3)
         {
-            rd2.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl2.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl2.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr2.Position = locgr2;
         }
         if (sos3 == 1)
         {
 
-            bl3.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr3.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd3.Position = locrd3;
         }
         else if (sos3 == 2)
         {
-            rd3.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr3.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl3.Position = locbl3;
         }
         else if (sos3 == 3)
         {
-            rd3.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl3.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl3.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr3.Position = locgr3;
         }
         if (sos4 == 1)
         {
 
-            bl4.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr4.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd4.Position = locrd4;
         }
         else if (sos4 == 2)
         {
-            rd4.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr4.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl4.Position = locbl4;
         }
         else if (sos4 == 3)
         {
-            rd4.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl4.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl4.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr4.Position = locgr4;
         }
         if (sos5 == 1)
         {
 
-            bl5.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr5.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd5.Position = locrd5;
         }
         else if (sos5== 2)
         {
-            rd5.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr5.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl5.Position = locbl5;
         }
         else if (sos5 == 3)
         {
-            rd5.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl5.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl5.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr5.Position = locgr5;
         }
         if (sos6 == 1)
         {
 
-            bl6.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr6.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd6.Position = locrd6;
         }
         else if (sos6 == 2)
         {
-            rd6.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr6.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl6.Position = locbl6;
         }
         else if (sos6 == 3)
         {
-            rd6.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl6.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl6.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr6.Position = locgr6;
         }
         if (sos7 == 1)
         {
 
-            bl7.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr7.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd7.Position = locrd7;
         }
         else if (sos7 == 2)
         {
-            rd7.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr7.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl7.Position = locbl7;
         }
         else if (sos7 == 3)
         {
-            rd7.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl7.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl7.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr7.Position = locgr7;
         }
         if (sos8 == 1)
         {
 
-            bl8.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr8.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd8.Position = locrd8;
         }
         else if (sos8 == 2)
         {
-            rd8.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr8.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl8.Position = locbl8;
         }
         else if (sos8 == 3)
         {
-            rd8.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl8.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl8.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr8.Position = locgr8;
         }
         if (sos9 == 1)
         {
 
-            bl9.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr9.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            bl9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             rd9.Position = locrd9;
         }
         else if (sos9 == 2)
         {
-            rd9.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            gr9.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            gr9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             bl9.Position = locbl9;
         }
         else if (sos9 == 3)
         {
-            rd9.Position = new Vec3(0.0f, 0.0f, -100.0f);
-            bl9.Position = new Vec3(0.0f, 0.0f, -100.0f);
+            rd9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
+            bl9.Position = new Vec3(-100.0f, -100.0f, -100.0f);
             gr9.Position = locgr9;
         }
         

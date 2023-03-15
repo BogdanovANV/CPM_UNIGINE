@@ -52,6 +52,9 @@
 		<Compile Include="data/components/hideWallsRoof.cs"/>
 		<Compile Include="data/components/Statuses.cs"/>
 		<Compile Include="data/components/GUI.cs"/>
+		<Compile Include="data/components/Crane1.cs"/>
+		<Compile Include="data/components/Crane2.cs"/>
+		<Compile Include="data/components/Crane3.cs"/>
 	</ItemGroup>
 	<ItemGroup>
 		<Compile Include="source\AppEditorLogic.cs"/>
