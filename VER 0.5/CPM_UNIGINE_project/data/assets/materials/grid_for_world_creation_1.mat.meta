@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>6515679e043c2a65903e58800b5c71dfc44695b2</guid>
+	<type>material</type>
+	<hash>8301f492</hash>
+	<runtimes>
+		<runtime id="6515679e043c2a65903e58800b5c71dfc44695b2" name="grid_for_world_creation_1" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

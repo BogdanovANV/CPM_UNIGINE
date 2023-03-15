@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>60586bbbe11bedde064e7ba5e6cbf8c084a7151f</guid>
+	<type>world</type>
+	<hash>4205ef55</hash>
+	<runtimes>
+		<runtime id="60586bbbe11bedde064e7ba5e6cbf8c084a7151f" name="CPM_UNIGINE_project.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://588478b44cd4cc83e5848806faf23fadb8001d28</parameter>
+		<parameter type="string" name="script_name"/>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports">&lt;viewport_list&gt;
+&lt;1&gt;
+&lt;flashlight&gt;
+&lt;enabled&gt;0&lt;/enabled&gt;
+&lt;color&gt;1 1 1 1&lt;/color&gt;
+&lt;intensity&gt;1&lt;/intensity&gt;
+&lt;attenuation&gt;1&lt;/attenuation&gt;
+&lt;radius&gt;300&lt;/radius&gt;
+&lt;fov&gt;160&lt;/fov&gt;
+&lt;/flashlight&gt;
+&lt;speed_presets&gt;
+&lt;speed_0&gt;5&lt;/speed_0&gt;
+&lt;speed_1&gt;50&lt;/speed_1&gt;
+&lt;speed_2&gt;500&lt;/speed_2&gt;
+&lt;current_preset&gt;0&lt;/current_preset&gt;
+&lt;/speed_presets&gt;
+&lt;scene_camera&gt;
+&lt;transform&gt;0.25477254390716542 0.96700096130371072 -0.00049948692321777387 0 -0.60967528820037831 0.16103005409240717 0.77612203359603871 0 0.75059109926223733 -0.19743007421493522 0.63058257102966309 0 -39.585607668006752 4.5499353959139013 20.572714483308086 1&lt;/transform&gt;
+&lt;fov_mode&gt;0&lt;/fov_mode&gt;
+&lt;fov&gt;60&lt;/fov&gt;
+&lt;focal_length&gt;30&lt;/focal_length&gt;
+&lt;film_gate&gt;35&lt;/film_gate&gt;
+&lt;znear&gt;0.100000001&lt;/znear&gt;
+&lt;zfar&gt;100000&lt;/zfar&gt;
+&lt;viewport_mask&gt;-1&lt;/viewport_mask&gt;
+&lt;reflection_mask&gt;-1&lt;/reflection_mask&gt;
+&lt;source_mask&gt;-1&lt;/source_mask&gt;
+&lt;reverb_mask&gt;-1&lt;/reverb_mask&gt;
+&lt;ortho_enabled&gt;0&lt;/ortho_enabled&gt;
+&lt;ortho_height&gt;16&lt;/ortho_height&gt;
+&lt;projection&gt;1.7320509 0 0 0 0 1.7320509 0 0 0 0 -1.00000203 -1 0 0 -0.200000197 0&lt;/projection&gt;
+&lt;/scene_camera&gt;
+&lt;render_debug&gt;
+&lt;mode&gt;-1&lt;/mode&gt;
+&lt;ligth_meter_max_intensity&gt;500&lt;/ligth_meter_max_intensity&gt;
+&lt;/render_debug&gt;
+&lt;selected_camera_id&gt;-1&lt;/selected_camera_id&gt;
+&lt;/1&gt;
+&lt;/viewport_list&gt;
+</parameter>
+	</parameters>
+</asset>

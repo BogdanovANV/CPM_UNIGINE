@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.16.1.0" guid="44e77846b4f1f2ed8ca7b7681d2eb3a7deb19cda" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<parameter name="albedo_color" expression="0">0 0.00392156886 0.368627459 1</parameter>
+</material>

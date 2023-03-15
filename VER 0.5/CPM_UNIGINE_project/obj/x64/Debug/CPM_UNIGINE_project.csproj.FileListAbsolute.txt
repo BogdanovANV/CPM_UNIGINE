@@ -1,0 +1,122 @@
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.exe
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.deps.json
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.runtimeconfig.json
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Options.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\UnigineSharp_double_x64d.pdb
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\bin\UnigineSharp_double_x64d.xml
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.AssemblyReference.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfoInputs.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfo.cs
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CoreCompileInputs.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CopyComplete
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.genruntimeconfig.cache
+C:\Users\Cesaress\YandexDisk\Личное\Подарок\CPM_UNIGINE\Андрей\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\ref\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.AssemblyReference.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfoInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfo.cs
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.exe
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.deps.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.runtimeconfig.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CopyComplete
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.genruntimeconfig.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\CPM_UNIGINE_project\obj\x64\Debug\ref\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.exe
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.deps.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.runtimeconfig.json
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Npgsql.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.AssemblyReference.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfoInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfo.cs
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CopyComplete
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.genruntimeconfig.cache
+C:\Users\Ilia\Desktop\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\ref\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.exe
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.deps.json
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.runtimeconfig.json
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Options.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Npgsql.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\bin\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.AssemblyReference.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfoInputs.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.AssemblyInfo.cs
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CoreCompileInputs.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.csproj.CopyComplete
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\refint\CPM_UNIGINE_project_x64d.dll
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project_x64d.pdb
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\CPM_UNIGINE_project.genruntimeconfig.cache
+C:\Users\Cesaress\Desktop\Repository\CPM_UNIGINE\VER 0.5\CPM_UNIGINE_project\obj\x64\Debug\ref\CPM_UNIGINE_project_x64d.dll

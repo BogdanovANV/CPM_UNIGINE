@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>fc200410313d882f8d6897c2e927f439d8561044</guid>
+	<type>material</type>
+	<hash>7683c41b</hash>
+	<runtimes>
+		<runtime id="fc200410313d882f8d6897c2e927f439d8561044" name="am98_010_chrome_squares" link="0" type="5"/>
+	</runtimes>
+</asset>

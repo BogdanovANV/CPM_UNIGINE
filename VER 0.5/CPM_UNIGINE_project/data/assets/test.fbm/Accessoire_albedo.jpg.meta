@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>b75d97daaafa8571c45bc01c865edccb6b0c0bae</guid>
+	<type>texture</type>
+	<hash>a7645d5</hash>
+	<runtimes>
+		<runtime id="b75d97daaafa8571c45bc01c865edccb6b0c0bae" name="Accessoire_albedo.jpg" link="0" type="6"/>
+		<runtime id="5aa92344acb6d5d3bc84e116bc03257db2bca8b8" name="Accessoire_albedo.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>fbd35c5040c2836fdc84da02a83cd17977cccc84</guid>
+	<type>component</type>
+	<hash>c46ed5fd</hash>
+	<runtimes>
+		<runtime id="fbd35c5040c2836fdc84da02a83cd17977cccc84" name="statusBulb.cs" link="0"/>
+		<runtime id="37ea2e86ecf2b42d90f107a8612146e759ee971a" name="statusBulb.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

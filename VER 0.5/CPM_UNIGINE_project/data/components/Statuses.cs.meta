@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>c8cd0a58238f89d7b1a39d4acea36c216709970c</guid>
+	<type>component</type>
+	<hash>876a2536</hash>
+	<runtimes>
+		<runtime id="c8cd0a58238f89d7b1a39d4acea36c216709970c" name="Statuses.cs" link="0"/>
+		<runtime id="fabd304e10e77b555ea114b03e0b204ff9961162" name="workers_check.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>d317d99ab5625c31a3f227dcf018a18b049f896e</guid>
+	<type>material</type>
+	<hash>378758fd</hash>
+	<runtimes>
+		<runtime id="d317d99ab5625c31a3f227dcf018a18b049f896e" name="am98_010_glass_white_texture" link="0" type="5"/>
+	</runtimes>
+</asset>

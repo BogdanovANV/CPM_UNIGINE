@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.16.1.0">
+	<node id="1686724569" type="ObjectBillboards" name="ObjectBillboards">
+		<depth_sort>1</depth_sort>
+		<billboards num_billboards="1">-3.22101474 -1.11047149 0.724775314 1 1 0 0 5 0.699999988 0</billboards>
+		<surface name="billboards" material="b10cd6864aa53c2dbd31efa824dd0ee7a427bf1a"/>
+		<data>
+			<unigine_editor>
+				<generator>
+					<count>16</count>
+					<atlas_width>1</atlas_width>
+					<atlas_height>1</atlas_height>
+					<radius_mean>1</radius_mean>
+					<radius_spread>0</radius_spread>
+					<aspect_mean>1</aspect_mean>
+					<aspect_spread>0</aspect_spread>
+					<angle_mean>0</angle_mean>
+					<angle_spread>0</angle_spread>
+					<mesh/>
+				</generator>
+			</unigine_editor>
+		</data>
+		<transform>0.999998986721 -2.88233110268e-07 0.00136453250889 0.0 0 1 0.000211232138099 0.0 -0.00136453227606 -0.000211231890717 0.999998807907 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

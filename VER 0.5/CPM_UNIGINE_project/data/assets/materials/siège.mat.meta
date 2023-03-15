@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>50bcfa56142bedbdfad853f85e1806f7448cb7ea</guid>
+	<type>material</type>
+	<hash>b2a2f173</hash>
+	<runtimes>
+		<runtime id="50bcfa56142bedbdfad853f85e1806f7448cb7ea" name="siège" link="0" type="5"/>
+	</runtimes>
+</asset>

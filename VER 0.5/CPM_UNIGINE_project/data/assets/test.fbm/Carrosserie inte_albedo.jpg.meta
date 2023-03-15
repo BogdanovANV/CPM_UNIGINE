@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.16.1.0">
+	<guid>6a57f9c9150db894cc204ae3c81432e66a332d0d</guid>
+	<type>texture</type>
+	<hash>904cb352</hash>
+	<runtimes>
+		<runtime id="6a57f9c9150db894cc204ae3c81432e66a332d0d" name="Carrosserie inte_albedo.jpg" link="0" type="6"/>
+		<runtime id="f622f28657eca82d6ada6ba833d35ae7f4f19b1a" name="Carrosserie inte_albedo.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">albedo (rgb)</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>
